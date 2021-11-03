@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Resources/faq/integrator-faq",
+  "id": "Resources/faq/integrator-faq",
+  "isDocsHomePage": false,
+  "title": "Integrator FAQ",
+  "description": "Orientation",
+  "source": "@site/docs/Resources/faq/integrator-faq.md",
+  "sourceDirName": "Resources/faq",
+  "slug": "/Resources/faq/integrator-faq",
+  "permalink": "/wiki/docs/Resources/faq/integrator-faq",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Resources/faq/integrator-faq.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FAQ",
+    "permalink": "/wiki/docs/Resources/faq/README"
+  },
+  "next": {
+    "title": "Onboarding With LinkDrop",
+    "permalink": "/wiki/docs/Resources/faq/onboarding-with-linkdrop"
+  }
+}

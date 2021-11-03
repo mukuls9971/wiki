@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Validators/validator-docs/hardware",
+  "id": "Validators/validator-docs/hardware",
+  "isDocsHomePage": false,
+  "title": "Hardware Requirements for Validator Node",
+  "description": "NEAR Validator Node Hardware Requirements",
+  "source": "@site/docs/Validators/validator-docs/hardware-requirements.md",
+  "sourceDirName": "Validators/validator-docs",
+  "slug": "/Validators/validator-docs/hardware",
+  "permalink": "/wiki/docs/Validators/validator-docs/hardware",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Validators/validator-docs/hardware-requirements.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "hardware",
+    "title": "Hardware Requirements for Validator Node",
+    "sidebar_label": "Hardware Requirements",
+    "description": "NEAR Validator Node Hardware Requirements"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docs",
+    "permalink": "/wiki/docs/Validators/validator-docs/README"
+  },
+  "next": {
+    "title": "Validator Economics",
+    "permalink": "/wiki/docs/Validators/validator-docs/validator-economics"
+  }
+}

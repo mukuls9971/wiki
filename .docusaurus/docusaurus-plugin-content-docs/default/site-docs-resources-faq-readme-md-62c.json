@@ -1,0 +1,26 @@
+{
+  "unversionedId": "resources/faq/README",
+  "id": "resources/faq/README",
+  "isDocsHomePage": false,
+  "title": "FAQ",
+  "description": "Frequently asked question about NEAR",
+  "source": "@site/docs/resources/faq/README.md",
+  "sourceDirName": "resources/faq",
+  "slug": "/resources/faq/README",
+  "permalink": "/docs/resources/faq/README",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/resources/faq/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Frequently asked question about NEAR"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributing",
+    "permalink": "/docs/resources/contributing"
+  },
+  "next": {
+    "title": "Integrator FAQ",
+    "permalink": "/docs/resources/faq/integrator-faq"
+  }
+}

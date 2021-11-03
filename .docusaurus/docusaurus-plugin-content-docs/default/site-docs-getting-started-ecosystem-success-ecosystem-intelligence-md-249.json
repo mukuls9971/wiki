@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Getting Started/ecosystem-success/ecosystem-intelligence",
+  "id": "Getting Started/ecosystem-success/ecosystem-intelligence",
+  "isDocsHomePage": false,
+  "title": "Ecosystem Intelligence",
+  "description": "WIP Q4 2021",
+  "source": "@site/docs/Getting Started/ecosystem-success/ecosystem-intelligence.md",
+  "sourceDirName": "Getting Started/ecosystem-success",
+  "slug": "/Getting Started/ecosystem-success/ecosystem-intelligence",
+  "permalink": "/wiki/docs/Getting Started/ecosystem-success/ecosystem-intelligence",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Getting Started/ecosystem-success/ecosystem-intelligence.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "WIP Q4 2021"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Business Development",
+    "permalink": "/wiki/docs/Getting Started/ecosystem-success/business-development"
+  },
+  "next": {
+    "title": "Ecosystem Success",
+    "permalink": "/wiki/docs/Getting Started/ecosystem-success/ecosystem-success"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Resources/analytics",
+  "id": "Resources/analytics",
+  "isDocsHomePage": false,
+  "title": "Analytics",
+  "description": "Resources for doing analytics in the NEAR ecosystem:",
+  "source": "@site/docs/Resources/analytics.md",
+  "sourceDirName": "Resources",
+  "slug": "/Resources/analytics",
+  "permalink": "/wiki/docs/Resources/analytics",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Resources/analytics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Why NEAR?",
+    "permalink": "/wiki/docs/News/why-near"
+  },
+  "next": {
+    "title": "Contributing",
+    "permalink": "/wiki/docs/Resources/contributing"
+  }
+}

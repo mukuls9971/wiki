@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Getting Started/grants-and-funding",
+  "id": "Getting Started/grants-and-funding",
+  "isDocsHomePage": false,
+  "title": "Grants & Funding",
+  "description": "The NEAR Ecosystem has a number of ways to get your project or initiative funded.",
+  "source": "@site/docs/Getting Started/grants-and-funding.md",
+  "sourceDirName": "Getting Started",
+  "slug": "/Getting Started/grants-and-funding",
+  "permalink": "/wiki/docs/Getting Started/grants-and-funding",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Getting Started/grants-and-funding.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/wiki/docs/Founders/founder-overview"
+  },
+  "next": {
+    "title": "Resources",
+    "permalink": "/wiki/docs/Getting Started/resources"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "News/whats-new",
+  "id": "News/whats-new",
+  "isDocsHomePage": false,
+  "title": "What's NEW",
+  "description": "Highlights of What's happening in the NEARVerse.",
+  "source": "@site/docs/News/whats-new.md",
+  "sourceDirName": "News",
+  "slug": "/News/whats-new",
+  "permalink": "/wiki/docs/News/whats-new",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/News/whats-new.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Highlights of What's happening in the NEARVerse."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Support",
+    "permalink": "/wiki/docs/Investors/investor-support"
+  },
+  "next": {
+    "title": "Why NEAR?",
+    "permalink": "/wiki/docs/News/why-near"
+  }
+}

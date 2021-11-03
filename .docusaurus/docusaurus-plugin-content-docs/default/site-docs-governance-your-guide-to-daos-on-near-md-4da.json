@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Governance/your-guide-to-daos-on-near",
+  "id": "Governance/your-guide-to-daos-on-near",
+  "isDocsHomePage": false,
+  "title": "Your Guide to DAOs on NEAR",
+  "description": "Your map to navigating the world of DAOs on NEAR",
+  "source": "@site/docs/Governance/your-guide-to-daos-on-near.md",
+  "sourceDirName": "Governance",
+  "slug": "/Governance/your-guide-to-daos-on-near",
+  "permalink": "/wiki/docs/Governance/your-guide-to-daos-on-near",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Governance/your-guide-to-daos-on-near.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Your map to navigating the world of DAOs on NEAR"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is the NEAR Governance Forum?",
+    "permalink": "/wiki/docs/Governance/what-is-the-near-governance-forum"
+  },
+  "next": {
+    "title": "Community",
+    "permalink": "/wiki/docs/Guilds/guild-community"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "resources/faq/integrator-faq",
+  "id": "resources/faq/integrator-faq",
+  "isDocsHomePage": false,
+  "title": "Integrator FAQ",
+  "description": "Orientation",
+  "source": "@site/docs/resources/faq/integrator-faq.md",
+  "sourceDirName": "resources/faq",
+  "slug": "/resources/faq/integrator-faq",
+  "permalink": "/docs/resources/faq/integrator-faq",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/resources/faq/integrator-faq.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FAQ",
+    "permalink": "/docs/resources/faq/README"
+  },
+  "next": {
+    "title": "Onboarding With LinkDrop",
+    "permalink": "/docs/resources/faq/onboarding-with-linkdrop"
+  }
+}

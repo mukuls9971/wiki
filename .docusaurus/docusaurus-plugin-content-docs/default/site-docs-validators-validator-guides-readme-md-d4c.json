@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Validators/validator-guides/README",
+  "id": "Validators/validator-guides/README",
+  "isDocsHomePage": false,
+  "title": "Guides",
+  "description": "Run a Validator//docs.near.org/docs/validator/staking",
+  "source": "@site/docs/Validators/validator-guides/README.md",
+  "sourceDirName": "Validators/validator-guides",
+  "slug": "/Validators/validator-guides/README",
+  "permalink": "/wiki/docs/Validators/validator-guides/README",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Validators/validator-guides/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Validator Economics",
+    "permalink": "/wiki/docs/Validators/validator-docs/validator-economics"
+  },
+  "next": {
+    "title": "Running a Validator (KR)",
+    "permalink": "/wiki/docs/Validators/validator-guides/running-a-validator-kr"
+  }
+}

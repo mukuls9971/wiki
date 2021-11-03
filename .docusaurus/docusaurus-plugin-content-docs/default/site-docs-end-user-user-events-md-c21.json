@@ -1,0 +1,24 @@
+{
+  "unversionedId": "end-user/user-events",
+  "id": "end-user/user-events",
+  "isDocsHomePage": false,
+  "title": "Events",
+  "description": "",
+  "source": "@site/docs/end-user/user-events.md",
+  "sourceDirName": "end-user",
+  "slug": "/end-user/user-events",
+  "permalink": "/docs/end-user/user-events",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/end-user/user-events.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Education",
+    "permalink": "/docs/end-user/user-education"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/end-user/user-overview"
+  }
+}

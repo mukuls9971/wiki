@@ -1,0 +1,24 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "isDocsHomePage": false,
+  "title": "Welcome to NEAR!",
+  "description": "Find tools, connections and resources to journey through the NEARVerse.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/wiki/docs/intro",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "description": "Find tools, connections and resources to journey through the NEARVerse."
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Docs",
+    "permalink": "/wiki/docs/Developers/dev-docs"
+  }
+}

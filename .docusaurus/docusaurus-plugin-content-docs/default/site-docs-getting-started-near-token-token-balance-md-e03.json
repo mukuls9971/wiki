@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Getting Started/near-token/token-balance",
+  "id": "Getting Started/near-token/token-balance",
+  "isDocsHomePage": false,
+  "title": "Token Balance",
+  "description": "Examples from our RPC are used. If you want to look at information about archival nodes (more than 2 days ago), please use archival prefix in your URL (e.g. https//archival-rpc.mainnet.near.org. Body:",
+  "source": "@site/docs/Getting Started/near-token/token-balance.md",
+  "sourceDirName": "Getting Started/near-token",
+  "slug": "/Getting Started/near-token/token-balance",
+  "permalink": "/wiki/docs/Getting Started/near-token/token-balance",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Getting Started/near-token/token-balance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lockups",
+    "permalink": "/wiki/docs/Getting Started/near-token/lockups"
+  },
+  "next": {
+    "title": "Token Custody",
+    "permalink": "/wiki/docs/Getting Started/near-token/token-custody"
+  }
+}

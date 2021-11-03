@@ -1,0 +1,24 @@
+{
+  "unversionedId": "validator/validator-support/README",
+  "id": "validator/validator-support/README",
+  "isDocsHomePage": false,
+  "title": "Support",
+  "description": "Discord Channel//discord.gg/z4ak4hA",
+  "source": "@site/docs/validator/validator-support/README.md",
+  "sourceDirName": "validator/validator-support",
+  "slug": "/validator/validator-support/README",
+  "permalink": "/docs/validator/validator-support/README",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/validator/validator-support/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Running a Validator",
+    "permalink": "/docs/validator/validator-guides/running-a-validator"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/docs/validator/validator-support/faq"
+  }
+}

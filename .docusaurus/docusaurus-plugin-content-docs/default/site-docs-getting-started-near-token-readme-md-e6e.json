@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/near-token/README",
+  "id": "getting-started/near-token/README",
+  "isDocsHomePage": false,
+  "title": "NEAR Token",
+  "description": "Everything you need to know about NEAR Token",
+  "source": "@site/docs/getting-started/near-token/README.md",
+  "sourceDirName": "getting-started/near-token",
+  "slug": "/getting-started/near-token/README",
+  "permalink": "/docs/getting-started/near-token/README",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/getting-started/near-token/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Everything you need to know about NEAR Token"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Service Catalog",
+    "permalink": "/docs/getting-started/ecosystem-success/resources-available"
+  },
+  "next": {
+    "title": "Lockups",
+    "permalink": "/docs/getting-started/near-token/lockups"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Getting Started/near-token/token-custody",
+  "id": "Getting Started/near-token/token-custody",
+  "isDocsHomePage": false,
+  "title": "Token Custody Options",
+  "description": "There are several options available to manage your NEAR and NEAR-based assets.",
+  "source": "@site/docs/Getting Started/near-token/token-custody.md",
+  "sourceDirName": "Getting Started/near-token",
+  "slug": "/Getting Started/near-token/token-custody",
+  "permalink": "/wiki/docs/Getting Started/near-token/token-custody",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Getting Started/near-token/token-custody.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "token-custody",
+    "title": "Token Custody Options",
+    "sidebar_label": "Token Custody"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Token Balance",
+    "permalink": "/wiki/docs/Getting Started/near-token/token-balance"
+  },
+  "next": {
+    "title": "Token Delegation",
+    "permalink": "/wiki/docs/Getting Started/near-token/delegation"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "founder/founder-overview",
+  "id": "founder/founder-overview",
+  "isDocsHomePage": false,
+  "title": "Overview",
+  "description": "",
+  "source": "@site/docs/founder/founder-overview.md",
+  "sourceDirName": "founder",
+  "slug": "/founder/founder-overview",
+  "permalink": "/docs/founder/founder-overview",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/founder/founder-overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Events",
+    "permalink": "/docs/founder/founder-events"
+  },
+  "next": {
+    "title": "Grants & Funding",
+    "permalink": "/docs/getting-started/grants-and-funding"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Founders/founder-events",
+  "id": "Founders/founder-events",
+  "isDocsHomePage": false,
+  "title": "Events",
+  "description": "",
+  "source": "@site/docs/Founders/founder-events.md",
+  "sourceDirName": "Founders",
+  "slug": "/Founders/founder-events",
+  "permalink": "/wiki/docs/Founders/founder-events",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Founders/founder-events.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Education",
+    "permalink": "/wiki/docs/Founders/founder-education"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/wiki/docs/Founders/founder-overview"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "developer/dev-gaming",
+  "id": "developer/dev-gaming",
+  "isDocsHomePage": false,
+  "title": "dev-gaming",
+  "description": "Hello, world.",
+  "source": "@site/docs/developer/dev-gaming.md",
+  "sourceDirName": "developer",
+  "slug": "/developer/dev-gaming",
+  "permalink": "/docs/developer/dev-gaming",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/developer/dev-gaming.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Events",
+    "permalink": "/docs/developer/dev-events"
+  },
+  "next": {
+    "title": "Guides",
+    "permalink": "/docs/developer/dev-guides"
+  }
+}

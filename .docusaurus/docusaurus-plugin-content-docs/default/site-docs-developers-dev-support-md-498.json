@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Developers/dev-support",
+  "id": "Developers/dev-support",
+  "isDocsHomePage": false,
+  "title": "Support",
+  "description": "Discord//discord.gg/P6Kyd98KZ7",
+  "source": "@site/docs/Developers/dev-support.md",
+  "sourceDirName": "Developers",
+  "slug": "/Developers/dev-support",
+  "permalink": "/wiki/docs/Developers/dev-support",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Developers/dev-support.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/wiki/docs/Developers/dev-overview"
+  },
+  "next": {
+    "title": "Training",
+    "permalink": "/wiki/docs/Developers/dev-training"
+  }
+}

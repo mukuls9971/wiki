@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Getting Started/ecosystem-success/resources-available",
+  "id": "Getting Started/ecosystem-success/resources-available",
+  "isDocsHomePage": false,
+  "title": "Service Catalog",
+  "description": "These are the various resources available throughout the NEAR ecosystem to help with your journey. This list is by no means complete, please reach out to us for specific questions!",
+  "source": "@site/docs/Getting Started/ecosystem-success/resources-available.md",
+  "sourceDirName": "Getting Started/ecosystem-success",
+  "slug": "/Getting Started/ecosystem-success/resources-available",
+  "permalink": "/wiki/docs/Getting Started/ecosystem-success/resources-available",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Getting Started/ecosystem-success/resources-available.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "These are the various resources available throughout the NEAR ecosystem to help with your journey. This list is by no means complete, please reach out to us for specific questions!"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ecosystem Success",
+    "permalink": "/wiki/docs/Getting Started/ecosystem-success/ecosystem-success"
+  },
+  "next": {
+    "title": "NEAR Token",
+    "permalink": "/wiki/docs/Getting Started/near-token/README"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Guilds/guild-support",
+  "id": "Guilds/guild-support",
+  "isDocsHomePage": false,
+  "title": "Support",
+  "description": "",
+  "source": "@site/docs/Guilds/guild-support.md",
+  "sourceDirName": "Guilds",
+  "slug": "/Guilds/guild-support",
+  "permalink": "/wiki/docs/Guilds/guild-support",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Guilds/guild-support.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reporting",
+    "permalink": "/wiki/docs/Guilds/guild-reporting"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/wiki/docs/Investors/investor-overview"
+  }
+}

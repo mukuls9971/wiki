@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Getting Started/resources",
+  "id": "Getting Started/resources",
+  "isDocsHomePage": false,
+  "title": "Resources",
+  "description": "NEAR Website//near.org/",
+  "source": "@site/docs/Getting Started/resources.md",
+  "sourceDirName": "Getting Started",
+  "slug": "/Getting Started/resources",
+  "permalink": "/wiki/docs/Getting Started/resources",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Getting Started/resources.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Grants & Funding",
+    "permalink": "/wiki/docs/Getting Started/grants-and-funding"
+  },
+  "next": {
+    "title": "Ecosystem Team",
+    "permalink": "/wiki/docs/Getting Started/ecosystem-success/README"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "getting-started/resources",
+  "id": "getting-started/resources",
+  "isDocsHomePage": false,
+  "title": "Resources",
+  "description": "NEAR Website//near.org/",
+  "source": "@site/docs/getting-started/resources.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/resources",
+  "permalink": "/docs/getting-started/resources",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/getting-started/resources.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Grants & Funding",
+    "permalink": "/docs/getting-started/grants-and-funding"
+  },
+  "next": {
+    "title": "Ecosystem Team",
+    "permalink": "/docs/getting-started/ecosystem-success/README"
+  }
+}

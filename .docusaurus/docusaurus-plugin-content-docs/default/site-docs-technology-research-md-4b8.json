@@ -1,0 +1,24 @@
+{
+  "unversionedId": "technology/research",
+  "id": "technology/research",
+  "isDocsHomePage": false,
+  "title": "Research",
+  "description": "Research Papers",
+  "source": "@site/docs/technology/research.md",
+  "sourceDirName": "technology",
+  "slug": "/technology/research",
+  "permalink": "/docs/technology/research",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/technology/research.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview of NEAR Protocol",
+    "permalink": "/docs/technology/overview-of-near-protocol"
+  },
+  "next": {
+    "title": "Technical Documentation",
+    "permalink": "/docs/technology/technical-documentation/README"
+  }
+}

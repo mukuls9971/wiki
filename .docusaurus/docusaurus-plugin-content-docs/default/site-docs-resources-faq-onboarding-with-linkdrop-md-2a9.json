@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Resources/faq/onboarding-with-linkdrop",
+  "id": "Resources/faq/onboarding-with-linkdrop",
+  "isDocsHomePage": false,
+  "title": "Onboarding With LinkDrop",
+  "description": "An easy way to onboard someone new to the NEAR ecosystem is by sending them a linkdrop URL to which will send the receiver to the NEAR wallet as shown below.",
+  "source": "@site/docs/Resources/faq/onboarding-with-linkdrop.md",
+  "sourceDirName": "Resources/faq",
+  "slug": "/Resources/faq/onboarding-with-linkdrop",
+  "permalink": "/wiki/docs/Resources/faq/onboarding-with-linkdrop",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Resources/faq/onboarding-with-linkdrop.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integrator FAQ",
+    "permalink": "/wiki/docs/Resources/faq/integrator-faq"
+  },
+  "next": {
+    "title": "Legal Resources",
+    "permalink": "/wiki/docs/Resources/legal-resources/README"
+  }
+}

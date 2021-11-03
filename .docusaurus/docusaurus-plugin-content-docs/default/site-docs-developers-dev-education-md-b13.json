@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Developers/dev-education",
+  "id": "Developers/dev-education",
+  "isDocsHomePage": false,
+  "title": "Education",
+  "description": "NEAR Learn//near.org/learn/",
+  "source": "@site/docs/Developers/dev-education.md",
+  "sourceDirName": "Developers",
+  "slug": "/Developers/dev-education",
+  "permalink": "/wiki/docs/Developers/dev-education",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Developers/dev-education.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docs",
+    "permalink": "/wiki/docs/Developers/dev-docs"
+  },
+  "next": {
+    "title": "Events",
+    "permalink": "/wiki/docs/Developers/dev-events"
+  }
+}

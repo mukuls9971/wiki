@@ -1,0 +1,26 @@
+{
+  "unversionedId": "guild/guild-overview",
+  "id": "guild/guild-overview",
+  "isDocsHomePage": false,
+  "title": "Overview",
+  "description": "Guilds are the heart beat of the NEARVerse.",
+  "source": "@site/docs/guild/guild-overview.md",
+  "sourceDirName": "guild",
+  "slug": "/guild/guild-overview",
+  "permalink": "/docs/guild/guild-overview",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guild/guild-overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Guilds are the heart beat of the NEARVerse."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Started",
+    "permalink": "/docs/guild/guild-getstarted"
+  },
+  "next": {
+    "title": "Reporting",
+    "permalink": "/docs/guild/guild-reporting"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "getting-started/near-token/delegation",
+  "id": "getting-started/near-token/delegation",
+  "isDocsHomePage": false,
+  "title": "Token Delegation",
+  "description": "Overview",
+  "source": "@site/docs/getting-started/near-token/token-delegation.md",
+  "sourceDirName": "getting-started/near-token",
+  "slug": "/getting-started/near-token/delegation",
+  "permalink": "/docs/getting-started/near-token/delegation",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/getting-started/near-token/token-delegation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "delegation",
+    "title": "Token Delegation",
+    "sidebar_label": "Token Delegation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Token Custody",
+    "permalink": "/docs/getting-started/near-token/token-custody"
+  },
+  "next": {
+    "title": "What's an NFT?",
+    "permalink": "/docs/getting-started/near-token/whats-an-nft"
+  }
+}

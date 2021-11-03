@@ -1,0 +1,24 @@
+{
+  "unversionedId": "guild/guild-support",
+  "id": "guild/guild-support",
+  "isDocsHomePage": false,
+  "title": "Support",
+  "description": "",
+  "source": "@site/docs/guild/guild-support.md",
+  "sourceDirName": "guild",
+  "slug": "/guild/guild-support",
+  "permalink": "/docs/guild/guild-support",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guild/guild-support.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reporting",
+    "permalink": "/docs/guild/guild-reporting"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/investor/investor-overview"
+  }
+}

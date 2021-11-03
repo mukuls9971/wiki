@@ -1,0 +1,24 @@
+{
+  "unversionedId": "News/why-near",
+  "id": "News/why-near",
+  "isDocsHomePage": false,
+  "title": "Why NEAR?",
+  "description": "",
+  "source": "@site/docs/News/why-near.md",
+  "sourceDirName": "News",
+  "slug": "/News/why-near",
+  "permalink": "/wiki/docs/News/why-near",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/News/why-near.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What's NEW",
+    "permalink": "/wiki/docs/News/whats-new"
+  },
+  "next": {
+    "title": "Analytics",
+    "permalink": "/wiki/docs/Resources/analytics"
+  }
+}

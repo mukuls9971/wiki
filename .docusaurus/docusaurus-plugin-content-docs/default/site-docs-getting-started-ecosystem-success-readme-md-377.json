@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Getting Started/ecosystem-success/README",
+  "id": "Getting Started/ecosystem-success/README",
+  "isDocsHomePage": false,
+  "title": "Ecosystem Team",
+  "description": "The Ecosystem Team supports projects and builders committed to building on NEAR.",
+  "source": "@site/docs/Getting Started/ecosystem-success/README.md",
+  "sourceDirName": "Getting Started/ecosystem-success",
+  "slug": "/Getting Started/ecosystem-success/README",
+  "permalink": "/wiki/docs/Getting Started/ecosystem-success/README",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Getting Started/ecosystem-success/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Resources",
+    "permalink": "/wiki/docs/Getting Started/resources"
+  },
+  "next": {
+    "title": "Business Development",
+    "permalink": "/wiki/docs/Getting Started/ecosystem-success/business-development"
+  }
+}

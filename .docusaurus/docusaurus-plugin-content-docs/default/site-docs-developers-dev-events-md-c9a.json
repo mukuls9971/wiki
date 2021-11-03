@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Developers/dev-events",
+  "id": "Developers/dev-events",
+  "isDocsHomePage": false,
+  "title": "Events",
+  "description": "",
+  "source": "@site/docs/Developers/dev-events.md",
+  "sourceDirName": "Developers",
+  "slug": "/Developers/dev-events",
+  "permalink": "/wiki/docs/Developers/dev-events",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Developers/dev-events.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Education",
+    "permalink": "/wiki/docs/Developers/dev-education"
+  },
+  "next": {
+    "title": "dev-gaming",
+    "permalink": "/wiki/docs/Developers/dev-gaming"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Developers/dev-guides",
+  "id": "Developers/dev-guides",
+  "isDocsHomePage": false,
+  "title": "Guides",
+  "description": "Figment Learn Tutorials//learn.figment.io/network-documentation/near/tutorials",
+  "source": "@site/docs/Developers/dev-guides.md",
+  "sourceDirName": "Developers",
+  "slug": "/Developers/dev-guides",
+  "permalink": "/wiki/docs/Developers/dev-guides",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Developers/dev-guides.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dev-gaming",
+    "permalink": "/wiki/docs/Developers/dev-gaming"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/wiki/docs/Developers/dev-overview"
+  }
+}

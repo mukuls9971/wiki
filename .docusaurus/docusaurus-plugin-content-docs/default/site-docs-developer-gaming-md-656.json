@@ -1,0 +1,24 @@
+{
+  "unversionedId": "developer/gaming",
+  "id": "developer/gaming",
+  "isDocsHomePage": false,
+  "title": "Gaming",
+  "description": "Hello, world!  This is a quick slug about building games on NEAR.",
+  "source": "@site/docs/developer/gaming.md",
+  "sourceDirName": "developer",
+  "slug": "/developer/gaming",
+  "permalink": "/docs/developer/gaming",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/developer/gaming.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Training",
+    "permalink": "/docs/developer/dev-training"
+  },
+  "next": {
+    "title": "Community",
+    "permalink": "/docs/end-user/user-community"
+  }
+}

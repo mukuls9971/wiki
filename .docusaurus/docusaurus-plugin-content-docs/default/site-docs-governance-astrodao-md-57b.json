@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Governance/astrodao",
+  "id": "Governance/astrodao",
+  "isDocsHomePage": false,
+  "title": "AstroDAO",
+  "description": "Astro DAO Factory aka Astro DAO of DAOs",
+  "source": "@site/docs/Governance/astrodao.md",
+  "sourceDirName": "Governance",
+  "slug": "/Governance/astrodao",
+  "permalink": "/wiki/docs/Governance/astrodao",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Governance/astrodao.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Astro DAO Factory aka Astro DAO of DAOs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What's an NFT?",
+    "permalink": "/wiki/docs/Getting Started/near-token/whats-an-nft"
+  },
+  "next": {
+    "title": "NEAR Forum Guidelines",
+    "permalink": "/wiki/docs/Governance/near-forum-guidelines"
+  }
+}

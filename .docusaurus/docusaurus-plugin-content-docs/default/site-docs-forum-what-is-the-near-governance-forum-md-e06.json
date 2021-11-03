@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Forum/what-is-the-near-governance-forum",
+  "id": "Forum/what-is-the-near-governance-forum",
+  "isDocsHomePage": false,
+  "title": "What is the NEAR Governance Forum?",
+  "description": "Your go-to place to discuss everything NEAR",
+  "source": "@site/docs/Forum/what-is-the-near-governance-forum.md",
+  "sourceDirName": "Forum",
+  "slug": "/Forum/what-is-the-near-governance-forum",
+  "permalink": "/wiki/docs/Forum/what-is-the-near-governance-forum",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Forum/what-is-the-near-governance-forum.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Your go-to place to discuss everything NEAR"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NEAR Forum Guidelines",
+    "permalink": "/wiki/docs/Forum/near-forum-guidelines"
+  },
+  "next": {
+    "title": "Education",
+    "permalink": "/wiki/docs/Founders/founder-education"
+  }
+}

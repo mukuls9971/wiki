@@ -1,0 +1,24 @@
+{
+  "unversionedId": "End Users/user-education",
+  "id": "End Users/user-education",
+  "isDocsHomePage": false,
+  "title": "Education",
+  "description": "Rainbow Bridge Tutorial//docs.near.org/docs/tutorials/rainbow-bridge-frontend-mainnet",
+  "source": "@site/docs/End Users/user-education.md",
+  "sourceDirName": "End Users",
+  "slug": "/End Users/user-education",
+  "permalink": "/wiki/docs/End Users/user-education",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/End Users/user-education.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Earn",
+    "permalink": "/wiki/docs/End Users/user-earn"
+  },
+  "next": {
+    "title": "Events",
+    "permalink": "/wiki/docs/End Users/user-events"
+  }
+}

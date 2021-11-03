@@ -1,0 +1,26 @@
+{
+  "unversionedId": "governance-forum/near-forum-guidelines",
+  "id": "governance-forum/near-forum-guidelines",
+  "isDocsHomePage": false,
+  "title": "NEAR Forum Guidelines",
+  "description": "You guide for interacting in the NEAR Governance Forum",
+  "source": "@site/docs/governance-forum/near-forum-guidelines.md",
+  "sourceDirName": "governance-forum",
+  "slug": "/governance-forum/near-forum-guidelines",
+  "permalink": "/docs/governance-forum/near-forum-guidelines",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/governance-forum/near-forum-guidelines.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "You guide for interacting in the NEAR Governance Forum"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Your Guide to DAOs on NEAR",
+    "permalink": "/docs/governance/your-guide-to-daos-on-near"
+  },
+  "next": {
+    "title": "What is the NEAR Governance Forum?",
+    "permalink": "/docs/governance-forum/what-is-the-near-governance-forum"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "End Users/user-support",
+  "id": "End Users/user-support",
+  "isDocsHomePage": false,
+  "title": "Support",
+  "description": "Discord Support//discord.gg/Yp8Uv6kw7t",
+  "source": "@site/docs/End Users/user-support.md",
+  "sourceDirName": "End Users",
+  "slug": "/End Users/user-support",
+  "permalink": "/wiki/docs/End Users/user-support",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/End Users/user-support.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/wiki/docs/End Users/user-overview"
+  },
+  "next": {
+    "title": "NEAR Forum Guidelines",
+    "permalink": "/wiki/docs/Forum/near-forum-guidelines"
+  }
+}

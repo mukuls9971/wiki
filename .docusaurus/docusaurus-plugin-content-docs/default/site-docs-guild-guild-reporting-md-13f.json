@@ -1,0 +1,24 @@
+{
+  "unversionedId": "guild/guild-reporting",
+  "id": "guild/guild-reporting",
+  "isDocsHomePage": false,
+  "title": "Reporting",
+  "description": "Monthly Reporting//gov.near.org/c/community/guilds/18",
+  "source": "@site/docs/guild/guild-reporting.md",
+  "sourceDirName": "guild",
+  "slug": "/guild/guild-reporting",
+  "permalink": "/docs/guild/guild-reporting",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guild/guild-reporting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/guild/guild-overview"
+  },
+  "next": {
+    "title": "Support",
+    "permalink": "/docs/guild/guild-support"
+  }
+}

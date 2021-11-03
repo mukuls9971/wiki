@@ -1,0 +1,24 @@
+{
+  "unversionedId": "news/why-near",
+  "id": "news/why-near",
+  "isDocsHomePage": false,
+  "title": "Why NEAR?",
+  "description": "",
+  "source": "@site/docs/news/why-near.md",
+  "sourceDirName": "news",
+  "slug": "/news/why-near",
+  "permalink": "/docs/news/why-near",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/news/why-near.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What's NEW",
+    "permalink": "/docs/news/whats-new"
+  },
+  "next": {
+    "title": "Analytics",
+    "permalink": "/docs/resources/analytics"
+  }
+}

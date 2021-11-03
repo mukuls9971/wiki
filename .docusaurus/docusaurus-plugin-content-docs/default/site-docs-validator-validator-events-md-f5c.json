@@ -1,0 +1,24 @@
+{
+  "unversionedId": "validator/validator-events",
+  "id": "validator/validator-events",
+  "isDocsHomePage": false,
+  "title": "Events",
+  "description": "",
+  "source": "@site/docs/validator/validator-events.md",
+  "sourceDirName": "validator",
+  "slug": "/validator/validator-events",
+  "permalink": "/docs/validator/validator-events",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/validator/validator-events.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Education",
+    "permalink": "/docs/validator/validator-education"
+  },
+  "next": {
+    "title": "Orientation",
+    "permalink": "/docs/validator/staking-overview"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "investor/investor-resources",
+  "id": "investor/investor-resources",
+  "isDocsHomePage": false,
+  "title": "Resources",
+  "description": "",
+  "source": "@site/docs/investor/investor-resources.md",
+  "sourceDirName": "investor",
+  "slug": "/investor/investor-resources",
+  "permalink": "/docs/investor/investor-resources",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/investor/investor-resources.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/investor/investor-overview"
+  },
+  "next": {
+    "title": "Support",
+    "permalink": "/docs/investor/investor-support"
+  }
+}

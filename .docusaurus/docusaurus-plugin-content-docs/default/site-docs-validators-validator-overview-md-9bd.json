@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Validators/staking-overview",
+  "id": "Validators/staking-overview",
+  "isDocsHomePage": false,
+  "title": "Staking Orientation",
+  "description": "Welcome",
+  "source": "@site/docs/Validators/validator-overview.md",
+  "sourceDirName": "Validators",
+  "slug": "/Validators/staking-overview",
+  "permalink": "/wiki/docs/Validators/staking-overview",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Validators/validator-overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "staking-overview",
+    "title": "Staking Orientation",
+    "sidebar_label": "Orientation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Events",
+    "permalink": "/wiki/docs/Validators/validator-events"
+  },
+  "next": {
+    "title": "Training",
+    "permalink": "/wiki/docs/Validators/validator-training"
+  }
+}

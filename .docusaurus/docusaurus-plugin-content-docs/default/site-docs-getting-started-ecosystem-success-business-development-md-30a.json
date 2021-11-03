@@ -1,0 +1,24 @@
+{
+  "unversionedId": "getting-started/ecosystem-success/business-development",
+  "id": "getting-started/ecosystem-success/business-development",
+  "isDocsHomePage": false,
+  "title": "Business Development",
+  "description": "",
+  "source": "@site/docs/getting-started/ecosystem-success/business-development.md",
+  "sourceDirName": "getting-started/ecosystem-success",
+  "slug": "/getting-started/ecosystem-success/business-development",
+  "permalink": "/docs/getting-started/ecosystem-success/business-development",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/getting-started/ecosystem-success/business-development.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ecosystem Team",
+    "permalink": "/docs/getting-started/ecosystem-success/README"
+  },
+  "next": {
+    "title": "Ecosystem Intelligence",
+    "permalink": "/docs/getting-started/ecosystem-success/ecosystem-intelligence"
+  }
+}

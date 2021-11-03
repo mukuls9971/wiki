@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Forum/near-forum-guidelines",
+  "id": "Forum/near-forum-guidelines",
+  "isDocsHomePage": false,
+  "title": "NEAR Forum Guidelines",
+  "description": "You guide for interacting in the NEAR Governance Forum",
+  "source": "@site/docs/Forum/near-forum-guidelines.md",
+  "sourceDirName": "Forum",
+  "slug": "/Forum/near-forum-guidelines",
+  "permalink": "/wiki/docs/Forum/near-forum-guidelines",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Forum/near-forum-guidelines.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "You guide for interacting in the NEAR Governance Forum"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Support",
+    "permalink": "/wiki/docs/End Users/user-support"
+  },
+  "next": {
+    "title": "What is the NEAR Governance Forum?",
+    "permalink": "/wiki/docs/Forum/what-is-the-near-governance-forum"
+  }
+}

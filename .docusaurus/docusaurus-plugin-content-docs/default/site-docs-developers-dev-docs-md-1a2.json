@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Developers/dev-docs",
+  "id": "Developers/dev-docs",
+  "isDocsHomePage": false,
+  "title": "Docs",
+  "description": "New to NEAR//docs.near.org/docs/concepts/new-to-near",
+  "source": "@site/docs/Developers/dev-docs.md",
+  "sourceDirName": "Developers",
+  "slug": "/Developers/dev-docs",
+  "permalink": "/wiki/docs/Developers/dev-docs",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Developers/dev-docs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome to NEAR!",
+    "permalink": "/wiki/docs/intro"
+  },
+  "next": {
+    "title": "Education",
+    "permalink": "/wiki/docs/Developers/dev-education"
+  }
+}

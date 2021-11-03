@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Validators/validator-guides/running-a-validator-kr",
+  "id": "Validators/validator-guides/running-a-validator-kr",
+  "isDocsHomePage": false,
+  "title": "Running a Validator (KR)",
+  "description": "공식 배타넷에 스테이킹하기",
+  "source": "@site/docs/Validators/validator-guides/running-a-validator-kr.md",
+  "sourceDirName": "Validators/validator-guides",
+  "slug": "/Validators/validator-guides/running-a-validator-kr",
+  "permalink": "/wiki/docs/Validators/validator-guides/running-a-validator-kr",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Validators/validator-guides/running-a-validator-kr.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guides",
+    "permalink": "/wiki/docs/Validators/validator-guides/README"
+  },
+  "next": {
+    "title": "Running a Validator (PT)",
+    "permalink": "/wiki/docs/Validators/validator-guides/running-a-validator-pt"
+  }
+}

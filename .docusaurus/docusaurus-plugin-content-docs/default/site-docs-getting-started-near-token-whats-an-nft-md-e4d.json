@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Getting Started/near-token/whats-an-nft",
+  "id": "Getting Started/near-token/whats-an-nft",
+  "isDocsHomePage": false,
+  "title": "What's an NFT?",
+  "description": "Non-Fungible Tokens (NFTs) are digital certificates of ownership for digital assets. These digital certificates are published into an ERC-721 token, and once written, they're secured on the blockchain.",
+  "source": "@site/docs/Getting Started/near-token/whats-an-nft.md",
+  "sourceDirName": "Getting Started/near-token",
+  "slug": "/Getting Started/near-token/whats-an-nft",
+  "permalink": "/wiki/docs/Getting Started/near-token/whats-an-nft",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Getting Started/near-token/whats-an-nft.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Token Delegation",
+    "permalink": "/wiki/docs/Getting Started/near-token/delegation"
+  },
+  "next": {
+    "title": "AstroDAO",
+    "permalink": "/wiki/docs/Governance/astrodao"
+  }
+}

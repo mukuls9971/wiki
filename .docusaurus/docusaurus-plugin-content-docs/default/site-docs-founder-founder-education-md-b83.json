@@ -1,0 +1,24 @@
+{
+  "unversionedId": "founder/founder-education",
+  "id": "founder/founder-education",
+  "isDocsHomePage": false,
+  "title": "Education",
+  "description": "",
+  "source": "@site/docs/founder/founder-education.md",
+  "sourceDirName": "founder",
+  "slug": "/founder/founder-education",
+  "permalink": "/docs/founder/founder-education",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/founder/founder-education.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Support",
+    "permalink": "/docs/end-user/user-support"
+  },
+  "next": {
+    "title": "Events",
+    "permalink": "/docs/founder/founder-events"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Validators/validator-support/faq",
+  "id": "Validators/validator-support/faq",
+  "isDocsHomePage": false,
+  "title": "FAQ",
+  "description": "What is a validator?",
+  "source": "@site/docs/Validators/validator-support/faq.md",
+  "sourceDirName": "Validators/validator-support",
+  "slug": "/Validators/validator-support/faq",
+  "permalink": "/wiki/docs/Validators/validator-support/faq",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Validators/validator-support/faq.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Support",
+    "permalink": "/wiki/docs/Validators/validator-support/README"
+  }
+}

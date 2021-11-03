@@ -1,0 +1,24 @@
+{
+  "unversionedId": "validator/validator-docs/validator-economics",
+  "id": "validator/validator-docs/validator-economics",
+  "isDocsHomePage": false,
+  "title": "Validator Economics",
+  "description": "Overview",
+  "source": "@site/docs/validator/validator-docs/validator-economics.md",
+  "sourceDirName": "validator/validator-docs",
+  "slug": "/validator/validator-docs/validator-economics",
+  "permalink": "/docs/validator/validator-docs/validator-economics",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/validator/validator-docs/validator-economics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hardware Requirements",
+    "permalink": "/docs/validator/validator-docs/hardware"
+  },
+  "next": {
+    "title": "Guides",
+    "permalink": "/docs/validator/validator-guides/README"
+  }
+}

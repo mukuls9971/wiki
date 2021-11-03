@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Validators/validator-education",
+  "id": "Validators/validator-education",
+  "isDocsHomePage": false,
+  "title": "Education",
+  "description": "Open Shards Alliance - https://openshards.io/",
+  "source": "@site/docs/Validators/validator-education.md",
+  "sourceDirName": "Validators",
+  "slug": "/Validators/validator-education",
+  "permalink": "/wiki/docs/Validators/validator-education",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Validators/validator-education.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Access Keys",
+    "permalink": "/wiki/docs/Technology/technical-documentation/access-keys"
+  },
+  "next": {
+    "title": "Events",
+    "permalink": "/wiki/docs/Validators/validator-events"
+  }
+}

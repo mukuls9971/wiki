@@ -1,0 +1,24 @@
+{
+  "unversionedId": "developer/dev-training",
+  "id": "developer/dev-training",
+  "isDocsHomePage": false,
+  "title": "Training",
+  "description": "",
+  "source": "@site/docs/developer/dev-training.md",
+  "sourceDirName": "developer",
+  "slug": "/developer/dev-training",
+  "permalink": "/docs/developer/dev-training",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/developer/dev-training.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Support",
+    "permalink": "/docs/developer/dev-support"
+  },
+  "next": {
+    "title": "Gaming",
+    "permalink": "/docs/developer/gaming"
+  }
+}

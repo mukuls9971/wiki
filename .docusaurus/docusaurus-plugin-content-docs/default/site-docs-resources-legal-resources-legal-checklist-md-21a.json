@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Resources/legal-resources/legal-checklist",
+  "id": "Resources/legal-resources/legal-checklist",
+  "isDocsHomePage": false,
+  "title": "Legal Checklist",
+  "description": "Legal Setup",
+  "source": "@site/docs/Resources/legal-resources/legal-checklist.md",
+  "sourceDirName": "Resources/legal-resources",
+  "slug": "/Resources/legal-resources/legal-checklist",
+  "permalink": "/wiki/docs/Resources/legal-resources/legal-checklist",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Resources/legal-resources/legal-checklist.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Legal Resources",
+    "permalink": "/wiki/docs/Resources/legal-resources/README"
+  },
+  "next": {
+    "title": "Overview of NEAR Protocol",
+    "permalink": "/wiki/docs/Technology/overview-of-near-protocol"
+  }
+}

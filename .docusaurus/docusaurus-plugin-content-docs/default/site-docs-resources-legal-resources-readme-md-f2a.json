@@ -1,0 +1,26 @@
+{
+  "unversionedId": "resources/legal-resources/README",
+  "id": "resources/legal-resources/README",
+  "isDocsHomePage": false,
+  "title": "Legal Resources",
+  "description": "Legal resources to support a decentralized world",
+  "source": "@site/docs/resources/legal-resources/README.md",
+  "sourceDirName": "resources/legal-resources",
+  "slug": "/resources/legal-resources/README",
+  "permalink": "/docs/resources/legal-resources/README",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/resources/legal-resources/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Legal resources to support a decentralized world"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Onboarding With LinkDrop",
+    "permalink": "/docs/resources/faq/onboarding-with-linkdrop"
+  },
+  "next": {
+    "title": "Legal Checklist",
+    "permalink": "/docs/resources/legal-resources/legal-checklist"
+  }
+}

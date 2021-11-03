@@ -1,0 +1,24 @@
+{
+  "unversionedId": "getting-started/ecosystem-success/ecosystem-success",
+  "id": "getting-started/ecosystem-success/ecosystem-success",
+  "isDocsHomePage": false,
+  "title": "Ecosystem Success",
+  "description": "Onboarding projects into the ecosystem&x20;",
+  "source": "@site/docs/getting-started/ecosystem-success/ecosystem-success.md",
+  "sourceDirName": "getting-started/ecosystem-success",
+  "slug": "/getting-started/ecosystem-success/ecosystem-success",
+  "permalink": "/docs/getting-started/ecosystem-success/ecosystem-success",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/getting-started/ecosystem-success/ecosystem-success.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ecosystem Intelligence",
+    "permalink": "/docs/getting-started/ecosystem-success/ecosystem-intelligence"
+  },
+  "next": {
+    "title": "Service Catalog",
+    "permalink": "/docs/getting-started/ecosystem-success/resources-available"
+  }
+}

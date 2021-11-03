@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Governance/near-forum-guidelines",
+  "id": "Governance/near-forum-guidelines",
+  "isDocsHomePage": false,
+  "title": "NEAR Forum Guidelines",
+  "description": "You guide for interacting in the NEAR Governance Forum",
+  "source": "@site/docs/Governance/near-forum-guidelines.md",
+  "sourceDirName": "Governance",
+  "slug": "/Governance/near-forum-guidelines",
+  "permalink": "/wiki/docs/Governance/near-forum-guidelines",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Governance/near-forum-guidelines.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "You guide for interacting in the NEAR Governance Forum"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AstroDAO",
+    "permalink": "/wiki/docs/Governance/astrodao"
+  },
+  "next": {
+    "title": "What is the NEAR Governance Forum?",
+    "permalink": "/wiki/docs/Governance/what-is-the-near-governance-forum"
+  }
+}

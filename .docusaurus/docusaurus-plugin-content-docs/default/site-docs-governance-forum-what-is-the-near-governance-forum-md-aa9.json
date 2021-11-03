@@ -1,0 +1,26 @@
+{
+  "unversionedId": "governance-forum/what-is-the-near-governance-forum",
+  "id": "governance-forum/what-is-the-near-governance-forum",
+  "isDocsHomePage": false,
+  "title": "What is the NEAR Governance Forum?",
+  "description": "Your go-to place to discuss everything NEAR",
+  "source": "@site/docs/governance-forum/what-is-the-near-governance-forum.md",
+  "sourceDirName": "governance-forum",
+  "slug": "/governance-forum/what-is-the-near-governance-forum",
+  "permalink": "/docs/governance-forum/what-is-the-near-governance-forum",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/governance-forum/what-is-the-near-governance-forum.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Your go-to place to discuss everything NEAR"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NEAR Forum Guidelines",
+    "permalink": "/docs/governance-forum/near-forum-guidelines"
+  },
+  "next": {
+    "title": "Community",
+    "permalink": "/docs/guild/guild-community"
+  }
+}

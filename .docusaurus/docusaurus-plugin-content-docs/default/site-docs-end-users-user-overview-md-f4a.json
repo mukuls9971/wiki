@@ -1,0 +1,24 @@
+{
+  "unversionedId": "End Users/user-overview",
+  "id": "End Users/user-overview",
+  "isDocsHomePage": false,
+  "title": "Overview",
+  "description": "If you're new to NEAR or have been here from the start we're all users! Find resources to get started with using NEAR or info to help you engage even deeper into the NEARVerse.",
+  "source": "@site/docs/End Users/user-overview.md",
+  "sourceDirName": "End Users",
+  "slug": "/End Users/user-overview",
+  "permalink": "/wiki/docs/End Users/user-overview",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/End Users/user-overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Events",
+    "permalink": "/wiki/docs/End Users/user-events"
+  },
+  "next": {
+    "title": "Support",
+    "permalink": "/wiki/docs/End Users/user-support"
+  }
+}

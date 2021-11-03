@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Investors/investor-support",
+  "id": "Investors/investor-support",
+  "isDocsHomePage": false,
+  "title": "Support",
+  "description": "",
+  "source": "@site/docs/Investors/investor-support.md",
+  "sourceDirName": "Investors",
+  "slug": "/Investors/investor-support",
+  "permalink": "/wiki/docs/Investors/investor-support",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Investors/investor-support.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Resources",
+    "permalink": "/wiki/docs/Investors/investor-resources"
+  },
+  "next": {
+    "title": "What's NEW",
+    "permalink": "/wiki/docs/News/whats-new"
+  }
+}

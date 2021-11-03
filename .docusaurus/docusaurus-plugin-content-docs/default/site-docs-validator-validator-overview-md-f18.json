@@ -1,0 +1,28 @@
+{
+  "unversionedId": "validator/staking-overview",
+  "id": "validator/staking-overview",
+  "isDocsHomePage": false,
+  "title": "Staking Orientation",
+  "description": "Welcome",
+  "source": "@site/docs/validator/validator-overview.md",
+  "sourceDirName": "validator",
+  "slug": "/validator/staking-overview",
+  "permalink": "/docs/validator/staking-overview",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/validator/validator-overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "staking-overview",
+    "title": "Staking Orientation",
+    "sidebar_label": "Orientation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Events",
+    "permalink": "/docs/validator/validator-events"
+  },
+  "next": {
+    "title": "Training",
+    "permalink": "/docs/validator/validator-training"
+  }
+}

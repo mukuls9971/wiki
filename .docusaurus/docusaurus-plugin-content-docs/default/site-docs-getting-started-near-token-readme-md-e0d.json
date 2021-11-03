@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Getting Started/near-token/README",
+  "id": "Getting Started/near-token/README",
+  "isDocsHomePage": false,
+  "title": "NEAR Token",
+  "description": "Everything you need to know about NEAR Token",
+  "source": "@site/docs/Getting Started/near-token/README.md",
+  "sourceDirName": "Getting Started/near-token",
+  "slug": "/Getting Started/near-token/README",
+  "permalink": "/wiki/docs/Getting Started/near-token/README",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Getting Started/near-token/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Everything you need to know about NEAR Token"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Service Catalog",
+    "permalink": "/wiki/docs/Getting Started/ecosystem-success/resources-available"
+  },
+  "next": {
+    "title": "Lockups",
+    "permalink": "/wiki/docs/Getting Started/near-token/lockups"
+  }
+}

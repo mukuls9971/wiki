@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Governance/what-is-the-near-governance-forum",
+  "id": "Governance/what-is-the-near-governance-forum",
+  "isDocsHomePage": false,
+  "title": "What is the NEAR Governance Forum?",
+  "description": "Your go-to place to discuss everything NEAR",
+  "source": "@site/docs/Governance/what-is-the-near-governance-forum.md",
+  "sourceDirName": "Governance",
+  "slug": "/Governance/what-is-the-near-governance-forum",
+  "permalink": "/wiki/docs/Governance/what-is-the-near-governance-forum",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Governance/what-is-the-near-governance-forum.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Your go-to place to discuss everything NEAR"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NEAR Forum Guidelines",
+    "permalink": "/wiki/docs/Governance/near-forum-guidelines"
+  },
+  "next": {
+    "title": "Your Guide to DAOs on NEAR",
+    "permalink": "/wiki/docs/Governance/your-guide-to-daos-on-near"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Validators/validator-events",
+  "id": "Validators/validator-events",
+  "isDocsHomePage": false,
+  "title": "Events",
+  "description": "",
+  "source": "@site/docs/Validators/validator-events.md",
+  "sourceDirName": "Validators",
+  "slug": "/Validators/validator-events",
+  "permalink": "/wiki/docs/Validators/validator-events",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Validators/validator-events.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Education",
+    "permalink": "/wiki/docs/Validators/validator-education"
+  },
+  "next": {
+    "title": "Orientation",
+    "permalink": "/wiki/docs/Validators/staking-overview"
+  }
+}

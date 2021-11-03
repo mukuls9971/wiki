@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Founders/founder-overview",
+  "id": "Founders/founder-overview",
+  "isDocsHomePage": false,
+  "title": "Overview",
+  "description": "",
+  "source": "@site/docs/Founders/founder-overview.md",
+  "sourceDirName": "Founders",
+  "slug": "/Founders/founder-overview",
+  "permalink": "/wiki/docs/Founders/founder-overview",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Founders/founder-overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Events",
+    "permalink": "/wiki/docs/Founders/founder-events"
+  },
+  "next": {
+    "title": "Grants & Funding",
+    "permalink": "/wiki/docs/Getting Started/grants-and-funding"
+  }
+}

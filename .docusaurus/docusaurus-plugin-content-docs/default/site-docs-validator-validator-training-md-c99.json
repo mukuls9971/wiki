@@ -1,0 +1,24 @@
+{
+  "unversionedId": "validator/validator-training",
+  "id": "validator/validator-training",
+  "isDocsHomePage": false,
+  "title": "Training",
+  "description": "Open Shards Alliance - https://openshards.io/ \\(Validator Training / Incentivized TestNet\\)",
+  "source": "@site/docs/validator/validator-training.md",
+  "sourceDirName": "validator",
+  "slug": "/validator/validator-training",
+  "permalink": "/docs/validator/validator-training",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/validator/validator-training.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Orientation",
+    "permalink": "/docs/validator/staking-overview"
+  },
+  "next": {
+    "title": "Docs",
+    "permalink": "/docs/validator/validator-docs/README"
+  }
+}

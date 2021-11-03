@@ -1,0 +1,383 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/wiki/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/wiki/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Developers/dev-docs",
+              "path": "/wiki/docs/Developers/dev-docs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developers/dev-education",
+              "path": "/wiki/docs/Developers/dev-education",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developers/dev-events",
+              "path": "/wiki/docs/Developers/dev-events",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developers/dev-gaming",
+              "path": "/wiki/docs/Developers/dev-gaming",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developers/dev-guides",
+              "path": "/wiki/docs/Developers/dev-guides",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developers/dev-overview",
+              "path": "/wiki/docs/Developers/dev-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developers/dev-support",
+              "path": "/wiki/docs/Developers/dev-support",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developers/dev-training",
+              "path": "/wiki/docs/Developers/dev-training",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developers/gaming",
+              "path": "/wiki/docs/Developers/gaming",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "End Users/user-community",
+              "path": "/wiki/docs/End Users/user-community",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "End Users/user-dapps",
+              "path": "/wiki/docs/End Users/user-dapps",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "End Users/user-earn",
+              "path": "/wiki/docs/End Users/user-earn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "End Users/user-education",
+              "path": "/wiki/docs/End Users/user-education",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "End Users/user-events",
+              "path": "/wiki/docs/End Users/user-events",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "End Users/user-overview",
+              "path": "/wiki/docs/End Users/user-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "End Users/user-support",
+              "path": "/wiki/docs/End Users/user-support",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Forum/near-forum-guidelines",
+              "path": "/wiki/docs/Forum/near-forum-guidelines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Forum/what-is-the-near-governance-forum",
+              "path": "/wiki/docs/Forum/what-is-the-near-governance-forum",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Founders/founder-education",
+              "path": "/wiki/docs/Founders/founder-education",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Founders/founder-events",
+              "path": "/wiki/docs/Founders/founder-events",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Founders/founder-overview",
+              "path": "/wiki/docs/Founders/founder-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/ecosystem-success/business-development",
+              "path": "/wiki/docs/Getting Started/ecosystem-success/business-development",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/ecosystem-success/ecosystem-intelligence",
+              "path": "/wiki/docs/Getting Started/ecosystem-success/ecosystem-intelligence",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/ecosystem-success/ecosystem-success",
+              "path": "/wiki/docs/Getting Started/ecosystem-success/ecosystem-success",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/ecosystem-success/README",
+              "path": "/wiki/docs/Getting Started/ecosystem-success/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/ecosystem-success/resources-available",
+              "path": "/wiki/docs/Getting Started/ecosystem-success/resources-available",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/grants-and-funding",
+              "path": "/wiki/docs/Getting Started/grants-and-funding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/near-token/delegation",
+              "path": "/wiki/docs/Getting Started/near-token/delegation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/near-token/lockups",
+              "path": "/wiki/docs/Getting Started/near-token/lockups",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/near-token/README",
+              "path": "/wiki/docs/Getting Started/near-token/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/near-token/token-balance",
+              "path": "/wiki/docs/Getting Started/near-token/token-balance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/near-token/token-custody",
+              "path": "/wiki/docs/Getting Started/near-token/token-custody",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/near-token/whats-an-nft",
+              "path": "/wiki/docs/Getting Started/near-token/whats-an-nft",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/resources",
+              "path": "/wiki/docs/Getting Started/resources",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Governance/astrodao",
+              "path": "/wiki/docs/Governance/astrodao",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Governance/near-forum-guidelines",
+              "path": "/wiki/docs/Governance/near-forum-guidelines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Governance/what-is-the-near-governance-forum",
+              "path": "/wiki/docs/Governance/what-is-the-near-governance-forum",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Governance/your-guide-to-daos-on-near",
+              "path": "/wiki/docs/Governance/your-guide-to-daos-on-near",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Guilds/guild-community",
+              "path": "/wiki/docs/Guilds/guild-community",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Guilds/guild-getstarted",
+              "path": "/wiki/docs/Guilds/guild-getstarted",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Guilds/guild-overview",
+              "path": "/wiki/docs/Guilds/guild-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Guilds/guild-reporting",
+              "path": "/wiki/docs/Guilds/guild-reporting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Guilds/guild-support",
+              "path": "/wiki/docs/Guilds/guild-support",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/wiki/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Investors/investor-overview",
+              "path": "/wiki/docs/Investors/investor-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Investors/investor-resources",
+              "path": "/wiki/docs/Investors/investor-resources",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Investors/investor-support",
+              "path": "/wiki/docs/Investors/investor-support",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "News/whats-new",
+              "path": "/wiki/docs/News/whats-new",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "News/why-near",
+              "path": "/wiki/docs/News/why-near",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Resources/analytics",
+              "path": "/wiki/docs/Resources/analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Resources/contributing",
+              "path": "/wiki/docs/Resources/contributing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Resources/faq/integrator-faq",
+              "path": "/wiki/docs/Resources/faq/integrator-faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Resources/faq/onboarding-with-linkdrop",
+              "path": "/wiki/docs/Resources/faq/onboarding-with-linkdrop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Resources/faq/README",
+              "path": "/wiki/docs/Resources/faq/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Resources/legal-resources/legal-checklist",
+              "path": "/wiki/docs/Resources/legal-resources/legal-checklist",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Resources/legal-resources/README",
+              "path": "/wiki/docs/Resources/legal-resources/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technology/overview-of-near-protocol",
+              "path": "/wiki/docs/Technology/overview-of-near-protocol",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technology/research",
+              "path": "/wiki/docs/Technology/research",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technology/technical-documentation/access-keys",
+              "path": "/wiki/docs/Technology/technical-documentation/access-keys",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technology/technical-documentation/README",
+              "path": "/wiki/docs/Technology/technical-documentation/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Validators/staking-overview",
+              "path": "/wiki/docs/Validators/staking-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Validators/validator-docs/hardware",
+              "path": "/wiki/docs/Validators/validator-docs/hardware",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Validators/validator-docs/README",
+              "path": "/wiki/docs/Validators/validator-docs/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Validators/validator-docs/validator-economics",
+              "path": "/wiki/docs/Validators/validator-docs/validator-economics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Validators/validator-education",
+              "path": "/wiki/docs/Validators/validator-education",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Validators/validator-events",
+              "path": "/wiki/docs/Validators/validator-events",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Validators/validator-guides/README",
+              "path": "/wiki/docs/Validators/validator-guides/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Validators/validator-guides/running-a-validator",
+              "path": "/wiki/docs/Validators/validator-guides/running-a-validator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Validators/validator-guides/running-a-validator-kr",
+              "path": "/wiki/docs/Validators/validator-guides/running-a-validator-kr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Validators/validator-guides/running-a-validator-pt",
+              "path": "/wiki/docs/Validators/validator-guides/running-a-validator-pt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Validators/validator-support/faq",
+              "path": "/wiki/docs/Validators/validator-support/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Validators/validator-support/README",
+              "path": "/wiki/docs/Validators/validator-support/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Validators/validator-training",
+              "path": "/wiki/docs/Validators/validator-training",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

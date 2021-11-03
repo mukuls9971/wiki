@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Developers/gaming",
+  "id": "Developers/gaming",
+  "isDocsHomePage": false,
+  "title": "Gaming",
+  "description": "Hello, world!  This is a quick slug about building games on NEAR.",
+  "source": "@site/docs/Developers/gaming.md",
+  "sourceDirName": "Developers",
+  "slug": "/Developers/gaming",
+  "permalink": "/wiki/docs/Developers/gaming",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Developers/gaming.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Training",
+    "permalink": "/wiki/docs/Developers/dev-training"
+  },
+  "next": {
+    "title": "Community",
+    "permalink": "/wiki/docs/End Users/user-community"
+  }
+}

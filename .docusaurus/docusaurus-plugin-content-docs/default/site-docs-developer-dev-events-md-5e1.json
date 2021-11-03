@@ -1,0 +1,24 @@
+{
+  "unversionedId": "developer/dev-events",
+  "id": "developer/dev-events",
+  "isDocsHomePage": false,
+  "title": "Events",
+  "description": "",
+  "source": "@site/docs/developer/dev-events.md",
+  "sourceDirName": "developer",
+  "slug": "/developer/dev-events",
+  "permalink": "/docs/developer/dev-events",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/developer/dev-events.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Education",
+    "permalink": "/docs/developer/dev-education"
+  },
+  "next": {
+    "title": "dev-gaming",
+    "permalink": "/docs/developer/dev-gaming"
+  }
+}

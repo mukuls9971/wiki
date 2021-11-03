@@ -1,0 +1,24 @@
+{
+  "unversionedId": "getting-started/near-token/lockups",
+  "id": "getting-started/near-token/lockups",
+  "isDocsHomePage": false,
+  "title": "Lockups",
+  "description": "These docs include information about lockups in general, how they are implemented on NEAR, some challenges this causes, and how you can delegate your locked tokens.",
+  "source": "@site/docs/getting-started/near-token/lockups.md",
+  "sourceDirName": "getting-started/near-token",
+  "slug": "/getting-started/near-token/lockups",
+  "permalink": "/docs/getting-started/near-token/lockups",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/getting-started/near-token/lockups.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NEAR Token",
+    "permalink": "/docs/getting-started/near-token/README"
+  },
+  "next": {
+    "title": "Token Balance",
+    "permalink": "/docs/getting-started/near-token/token-balance"
+  }
+}

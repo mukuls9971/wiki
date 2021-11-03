@@ -1,0 +1,26 @@
+{
+  "unversionedId": "news/whats-new",
+  "id": "news/whats-new",
+  "isDocsHomePage": false,
+  "title": "What's NEW",
+  "description": "Highlights of What's happening in the NEARVerse.",
+  "source": "@site/docs/news/whats-new.md",
+  "sourceDirName": "news",
+  "slug": "/news/whats-new",
+  "permalink": "/docs/news/whats-new",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/news/whats-new.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Highlights of What's happening in the NEARVerse."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Support",
+    "permalink": "/docs/investor/investor-support"
+  },
+  "next": {
+    "title": "Why NEAR?",
+    "permalink": "/docs/news/why-near"
+  }
+}

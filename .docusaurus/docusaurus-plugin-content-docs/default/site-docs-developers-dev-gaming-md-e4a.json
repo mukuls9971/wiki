@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Developers/dev-gaming",
+  "id": "Developers/dev-gaming",
+  "isDocsHomePage": false,
+  "title": "dev-gaming",
+  "description": "Hello, world.",
+  "source": "@site/docs/Developers/dev-gaming.md",
+  "sourceDirName": "Developers",
+  "slug": "/Developers/dev-gaming",
+  "permalink": "/wiki/docs/Developers/dev-gaming",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Developers/dev-gaming.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Events",
+    "permalink": "/wiki/docs/Developers/dev-events"
+  },
+  "next": {
+    "title": "Guides",
+    "permalink": "/wiki/docs/Developers/dev-guides"
+  }
+}

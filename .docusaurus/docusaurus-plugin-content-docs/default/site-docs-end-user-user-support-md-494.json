@@ -1,0 +1,24 @@
+{
+  "unversionedId": "End User/user-support",
+  "id": "End User/user-support",
+  "isDocsHomePage": false,
+  "title": "Support",
+  "description": "Discord Support//discord.gg/Yp8Uv6kw7t",
+  "source": "@site/docs/End User/user-support.md",
+  "sourceDirName": "End User",
+  "slug": "/End User/user-support",
+  "permalink": "/docs/End User/user-support",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/End User/user-support.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/End User/user-overview"
+  },
+  "next": {
+    "title": "Docs",
+    "permalink": "/docs/developer/dev-docs"
+  }
+}

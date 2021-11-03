@@ -1,0 +1,24 @@
+{
+  "unversionedId": "guild/guild-community",
+  "id": "guild/guild-community",
+  "isDocsHomePage": false,
+  "title": "Community",
+  "description": "",
+  "source": "@site/docs/guild/guild-community.md",
+  "sourceDirName": "guild",
+  "slug": "/guild/guild-community",
+  "permalink": "/docs/guild/guild-community",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guild/guild-community.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is the NEAR Governance Forum?",
+    "permalink": "/docs/governance-forum/what-is-the-near-governance-forum"
+  },
+  "next": {
+    "title": "Get Started",
+    "permalink": "/docs/guild/guild-getstarted"
+  }
+}

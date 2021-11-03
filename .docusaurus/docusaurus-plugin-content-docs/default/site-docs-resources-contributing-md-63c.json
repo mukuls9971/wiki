@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Resources/contributing",
+  "id": "Resources/contributing",
+  "isDocsHomePage": false,
+  "title": "Contributing",
+  "description": "This Wiki is Community driven and all contributions about NEAR and its ecosystem are welcome.",
+  "source": "@site/docs/Resources/contributing.md",
+  "sourceDirName": "Resources",
+  "slug": "/Resources/contributing",
+  "permalink": "/wiki/docs/Resources/contributing",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Resources/contributing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Analytics",
+    "permalink": "/wiki/docs/Resources/analytics"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/wiki/docs/Resources/faq/README"
+  }
+}

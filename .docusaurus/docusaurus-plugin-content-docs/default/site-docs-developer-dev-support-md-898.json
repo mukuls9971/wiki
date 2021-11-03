@@ -1,0 +1,24 @@
+{
+  "unversionedId": "developer/dev-support",
+  "id": "developer/dev-support",
+  "isDocsHomePage": false,
+  "title": "Support",
+  "description": "Discord//discord.gg/P6Kyd98KZ7",
+  "source": "@site/docs/developer/dev-support.md",
+  "sourceDirName": "developer",
+  "slug": "/developer/dev-support",
+  "permalink": "/docs/developer/dev-support",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/developer/dev-support.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/developer/dev-overview"
+  },
+  "next": {
+    "title": "Training",
+    "permalink": "/docs/developer/dev-training"
+  }
+}

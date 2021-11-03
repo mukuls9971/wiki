@@ -1,0 +1,24 @@
+{
+  "unversionedId": "End Users/user-dapps",
+  "id": "End Users/user-dapps",
+  "isDocsHomePage": false,
+  "title": "dApps",
+  "description": "Frequently Used dApps:",
+  "source": "@site/docs/End Users/user-dapps.md",
+  "sourceDirName": "End Users",
+  "slug": "/End Users/user-dapps",
+  "permalink": "/wiki/docs/End Users/user-dapps",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/End Users/user-dapps.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Community",
+    "permalink": "/wiki/docs/End Users/user-community"
+  },
+  "next": {
+    "title": "Earn",
+    "permalink": "/wiki/docs/End Users/user-earn"
+  }
+}

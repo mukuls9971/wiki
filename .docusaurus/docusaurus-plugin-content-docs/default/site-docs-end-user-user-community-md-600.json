@@ -1,0 +1,24 @@
+{
+  "unversionedId": "End User/user-community",
+  "id": "End User/user-community",
+  "isDocsHomePage": false,
+  "title": "Community",
+  "description": "",
+  "source": "@site/docs/End User/user-community.md",
+  "sourceDirName": "End User",
+  "slug": "/End User/user-community",
+  "permalink": "/docs/End User/user-community",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/End User/user-community.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome to NEAR!",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "dApps",
+    "permalink": "/docs/End User/user-dapps"
+  }
+}

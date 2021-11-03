@@ -1,0 +1,24 @@
+{
+  "unversionedId": "guild/guild-getstarted",
+  "id": "guild/guild-getstarted",
+  "isDocsHomePage": false,
+  "title": "Get Started",
+  "description": "Join a Guild:",
+  "source": "@site/docs/guild/guild-getstarted.md",
+  "sourceDirName": "guild",
+  "slug": "/guild/guild-getstarted",
+  "permalink": "/docs/guild/guild-getstarted",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guild/guild-getstarted.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Community",
+    "permalink": "/docs/guild/guild-community"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/guild/guild-overview"
+  }
+}

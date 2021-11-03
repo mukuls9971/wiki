@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Guilds/guild-community",
+  "id": "Guilds/guild-community",
+  "isDocsHomePage": false,
+  "title": "Community",
+  "description": "",
+  "source": "@site/docs/Guilds/guild-community.md",
+  "sourceDirName": "Guilds",
+  "slug": "/Guilds/guild-community",
+  "permalink": "/wiki/docs/Guilds/guild-community",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Guilds/guild-community.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Your Guide to DAOs on NEAR",
+    "permalink": "/wiki/docs/Governance/your-guide-to-daos-on-near"
+  },
+  "next": {
+    "title": "Get Started",
+    "permalink": "/wiki/docs/Guilds/guild-getstarted"
+  }
+}

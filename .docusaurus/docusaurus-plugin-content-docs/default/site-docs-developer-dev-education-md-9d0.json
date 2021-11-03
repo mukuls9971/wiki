@@ -1,0 +1,24 @@
+{
+  "unversionedId": "developer/dev-education",
+  "id": "developer/dev-education",
+  "isDocsHomePage": false,
+  "title": "Education",
+  "description": "NEAR Learn//near.org/learn/",
+  "source": "@site/docs/developer/dev-education.md",
+  "sourceDirName": "developer",
+  "slug": "/developer/dev-education",
+  "permalink": "/docs/developer/dev-education",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/developer/dev-education.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docs",
+    "permalink": "/docs/developer/dev-docs"
+  },
+  "next": {
+    "title": "Events",
+    "permalink": "/docs/developer/dev-events"
+  }
+}

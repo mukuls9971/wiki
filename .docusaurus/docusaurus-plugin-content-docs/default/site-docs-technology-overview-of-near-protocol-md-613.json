@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Technology/overview-of-near-protocol",
+  "id": "Technology/overview-of-near-protocol",
+  "isDocsHomePage": false,
+  "title": "Overview of NEAR Protocol",
+  "description": "",
+  "source": "@site/docs/Technology/overview-of-near-protocol.md",
+  "sourceDirName": "Technology",
+  "slug": "/Technology/overview-of-near-protocol",
+  "permalink": "/wiki/docs/Technology/overview-of-near-protocol",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Technology/overview-of-near-protocol.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Legal Checklist",
+    "permalink": "/wiki/docs/Resources/legal-resources/legal-checklist"
+  },
+  "next": {
+    "title": "Research",
+    "permalink": "/wiki/docs/Technology/research"
+  }
+}

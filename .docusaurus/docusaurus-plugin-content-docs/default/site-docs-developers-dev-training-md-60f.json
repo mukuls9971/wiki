@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Developers/dev-training",
+  "id": "Developers/dev-training",
+  "isDocsHomePage": false,
+  "title": "Training",
+  "description": "",
+  "source": "@site/docs/Developers/dev-training.md",
+  "sourceDirName": "Developers",
+  "slug": "/Developers/dev-training",
+  "permalink": "/wiki/docs/Developers/dev-training",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Developers/dev-training.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Support",
+    "permalink": "/wiki/docs/Developers/dev-support"
+  },
+  "next": {
+    "title": "Gaming",
+    "permalink": "/wiki/docs/Developers/gaming"
+  }
+}

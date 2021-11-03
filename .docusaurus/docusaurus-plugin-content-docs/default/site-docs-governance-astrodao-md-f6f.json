@@ -1,0 +1,26 @@
+{
+  "unversionedId": "governance/astrodao",
+  "id": "governance/astrodao",
+  "isDocsHomePage": false,
+  "title": "AstroDAO",
+  "description": "Astro DAO Factory aka Astro DAO of DAOs",
+  "source": "@site/docs/governance/astrodao.md",
+  "sourceDirName": "governance",
+  "slug": "/governance/astrodao",
+  "permalink": "/docs/governance/astrodao",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/governance/astrodao.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Astro DAO Factory aka Astro DAO of DAOs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What's an NFT?",
+    "permalink": "/docs/getting-started/near-token/whats-an-nft"
+  },
+  "next": {
+    "title": "NEAR Forum Guidelines",
+    "permalink": "/docs/governance/near-forum-guidelines"
+  }
+}

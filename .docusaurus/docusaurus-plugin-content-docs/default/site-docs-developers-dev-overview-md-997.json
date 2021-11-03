@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Developers/dev-overview",
+  "id": "Developers/dev-overview",
+  "isDocsHomePage": false,
+  "title": "Overview",
+  "description": "NEAR Protocol offers development paths for WEB2/WEB3 devs to get started with the ecosystem. If you're joining from web2 then Assemblyscript may be a great place to start. Existing web3 devs may find RUST a more natural fit. Whichever path you choose you can find the tools, resources, and support to help you journey through the NEARVerse.",
+  "source": "@site/docs/Developers/dev-overview.md",
+  "sourceDirName": "Developers",
+  "slug": "/Developers/dev-overview",
+  "permalink": "/wiki/docs/Developers/dev-overview",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Developers/dev-overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guides",
+    "permalink": "/wiki/docs/Developers/dev-guides"
+  },
+  "next": {
+    "title": "Support",
+    "permalink": "/wiki/docs/Developers/dev-support"
+  }
+}

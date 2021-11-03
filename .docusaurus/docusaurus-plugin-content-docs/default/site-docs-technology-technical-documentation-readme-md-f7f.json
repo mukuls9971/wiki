@@ -1,0 +1,24 @@
+{
+  "unversionedId": "technology/technical-documentation/README",
+  "id": "technology/technical-documentation/README",
+  "isDocsHomePage": false,
+  "title": "Technical Documentation",
+  "description": "High level documentation",
+  "source": "@site/docs/technology/technical-documentation/README.md",
+  "sourceDirName": "technology/technical-documentation",
+  "slug": "/technology/technical-documentation/README",
+  "permalink": "/docs/technology/technical-documentation/README",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/technology/technical-documentation/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Research",
+    "permalink": "/docs/technology/research"
+  },
+  "next": {
+    "title": "Access Keys",
+    "permalink": "/docs/technology/technical-documentation/access-keys"
+  }
+}

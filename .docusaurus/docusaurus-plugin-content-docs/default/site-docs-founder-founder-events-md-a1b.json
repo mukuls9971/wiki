@@ -1,0 +1,24 @@
+{
+  "unversionedId": "founder/founder-events",
+  "id": "founder/founder-events",
+  "isDocsHomePage": false,
+  "title": "Events",
+  "description": "",
+  "source": "@site/docs/founder/founder-events.md",
+  "sourceDirName": "founder",
+  "slug": "/founder/founder-events",
+  "permalink": "/docs/founder/founder-events",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/founder/founder-events.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Education",
+    "permalink": "/docs/founder/founder-education"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/founder/founder-overview"
+  }
+}

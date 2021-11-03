@@ -1,0 +1,24 @@
+{
+  "unversionedId": "technology/technical-documentation/access-keys",
+  "id": "technology/technical-documentation/access-keys",
+  "isDocsHomePage": false,
+  "title": "Access Keys",
+  "description": "How Access Keys Work on Other Blockchains",
+  "source": "@site/docs/technology/technical-documentation/access-keys.md",
+  "sourceDirName": "technology/technical-documentation",
+  "slug": "/technology/technical-documentation/access-keys",
+  "permalink": "/docs/technology/technical-documentation/access-keys",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/technology/technical-documentation/access-keys.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Technical Documentation",
+    "permalink": "/docs/technology/technical-documentation/README"
+  },
+  "next": {
+    "title": "Education",
+    "permalink": "/docs/validator/validator-education"
+  }
+}

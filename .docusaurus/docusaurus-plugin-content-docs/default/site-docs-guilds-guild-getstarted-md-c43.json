@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Guilds/guild-getstarted",
+  "id": "Guilds/guild-getstarted",
+  "isDocsHomePage": false,
+  "title": "Get Started",
+  "description": "Join a Guild:",
+  "source": "@site/docs/Guilds/guild-getstarted.md",
+  "sourceDirName": "Guilds",
+  "slug": "/Guilds/guild-getstarted",
+  "permalink": "/wiki/docs/Guilds/guild-getstarted",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Guilds/guild-getstarted.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Community",
+    "permalink": "/wiki/docs/Guilds/guild-community"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/wiki/docs/Guilds/guild-overview"
+  }
+}

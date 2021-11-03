@@ -1,0 +1,24 @@
+{
+  "unversionedId": "validator/validator-guides/running-a-validator-pt",
+  "id": "validator/validator-guides/running-a-validator-pt",
+  "isDocsHomePage": false,
+  "title": "Running a Validator (PT)",
+  "description": "Staking na NEAR",
+  "source": "@site/docs/validator/validator-guides/running-a-validator-pt.md",
+  "sourceDirName": "validator/validator-guides",
+  "slug": "/validator/validator-guides/running-a-validator-pt",
+  "permalink": "/docs/validator/validator-guides/running-a-validator-pt",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/validator/validator-guides/running-a-validator-pt.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Running a Validator (KR)",
+    "permalink": "/docs/validator/validator-guides/running-a-validator-kr"
+  },
+  "next": {
+    "title": "Running a Validator",
+    "permalink": "/docs/validator/validator-guides/running-a-validator"
+  }
+}

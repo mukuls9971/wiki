@@ -1,0 +1,24 @@
+{
+  "unversionedId": "End Users/user-events",
+  "id": "End Users/user-events",
+  "isDocsHomePage": false,
+  "title": "Events",
+  "description": "",
+  "source": "@site/docs/End Users/user-events.md",
+  "sourceDirName": "End Users",
+  "slug": "/End Users/user-events",
+  "permalink": "/wiki/docs/End Users/user-events",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/End Users/user-events.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Education",
+    "permalink": "/wiki/docs/End Users/user-education"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/wiki/docs/End Users/user-overview"
+  }
+}

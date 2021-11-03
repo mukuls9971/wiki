@@ -1,0 +1,2307 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
+          "versionEditUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs",
+          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/main/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/jlwaugh/Desktop/wiki/sidebars.js",
+          "contentPath": "/Users/jlwaugh/Desktop/wiki/docs",
+          "contentPathLocalized": "/Users/jlwaugh/Desktop/wiki/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "unversionedId": "Developers/dev-docs",
+              "id": "Developers/dev-docs",
+              "isDocsHomePage": false,
+              "title": "Docs",
+              "description": "New to NEAR//docs.near.org/docs/concepts/new-to-near",
+              "source": "@site/docs/Developers/dev-docs.md",
+              "sourceDirName": "Developers",
+              "slug": "/Developers/dev-docs",
+              "permalink": "/docs/Developers/dev-docs",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Developers/dev-docs.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Welcome to NEAR!",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "Education",
+                "permalink": "/docs/Developers/dev-education"
+              }
+            },
+            {
+              "unversionedId": "Developers/dev-education",
+              "id": "Developers/dev-education",
+              "isDocsHomePage": false,
+              "title": "Education",
+              "description": "NEAR Learn//near.org/learn/",
+              "source": "@site/docs/Developers/dev-education.md",
+              "sourceDirName": "Developers",
+              "slug": "/Developers/dev-education",
+              "permalink": "/docs/Developers/dev-education",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Developers/dev-education.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Docs",
+                "permalink": "/docs/Developers/dev-docs"
+              },
+              "next": {
+                "title": "Events",
+                "permalink": "/docs/Developers/dev-events"
+              }
+            },
+            {
+              "unversionedId": "Developers/dev-events",
+              "id": "Developers/dev-events",
+              "isDocsHomePage": false,
+              "title": "Events",
+              "description": "",
+              "source": "@site/docs/Developers/dev-events.md",
+              "sourceDirName": "Developers",
+              "slug": "/Developers/dev-events",
+              "permalink": "/docs/Developers/dev-events",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Developers/dev-events.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Education",
+                "permalink": "/docs/Developers/dev-education"
+              },
+              "next": {
+                "title": "dev-gaming",
+                "permalink": "/docs/Developers/dev-gaming"
+              }
+            },
+            {
+              "unversionedId": "Developers/dev-gaming",
+              "id": "Developers/dev-gaming",
+              "isDocsHomePage": false,
+              "title": "dev-gaming",
+              "description": "Hello, world.",
+              "source": "@site/docs/Developers/dev-gaming.md",
+              "sourceDirName": "Developers",
+              "slug": "/Developers/dev-gaming",
+              "permalink": "/docs/Developers/dev-gaming",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Developers/dev-gaming.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Events",
+                "permalink": "/docs/Developers/dev-events"
+              },
+              "next": {
+                "title": "Guides",
+                "permalink": "/docs/Developers/dev-guides"
+              }
+            },
+            {
+              "unversionedId": "Developers/dev-guides",
+              "id": "Developers/dev-guides",
+              "isDocsHomePage": false,
+              "title": "Guides",
+              "description": "Figment Learn Tutorials//learn.figment.io/network-documentation/near/tutorials",
+              "source": "@site/docs/Developers/dev-guides.md",
+              "sourceDirName": "Developers",
+              "slug": "/Developers/dev-guides",
+              "permalink": "/docs/Developers/dev-guides",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Developers/dev-guides.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "dev-gaming",
+                "permalink": "/docs/Developers/dev-gaming"
+              },
+              "next": {
+                "title": "Overview",
+                "permalink": "/docs/Developers/dev-overview"
+              }
+            },
+            {
+              "unversionedId": "Developers/dev-overview",
+              "id": "Developers/dev-overview",
+              "isDocsHomePage": false,
+              "title": "Overview",
+              "description": "NEAR Protocol offers development paths for WEB2/WEB3 devs to get started with the ecosystem. If you're joining from web2 then Assemblyscript may be a great place to start. Existing web3 devs may find RUST a more natural fit. Whichever path you choose you can find the tools, resources, and support to help you journey through the NEARVerse.",
+              "source": "@site/docs/Developers/dev-overview.md",
+              "sourceDirName": "Developers",
+              "slug": "/Developers/dev-overview",
+              "permalink": "/docs/Developers/dev-overview",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Developers/dev-overview.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Guides",
+                "permalink": "/docs/Developers/dev-guides"
+              },
+              "next": {
+                "title": "Support",
+                "permalink": "/docs/Developers/dev-support"
+              }
+            },
+            {
+              "unversionedId": "Developers/dev-support",
+              "id": "Developers/dev-support",
+              "isDocsHomePage": false,
+              "title": "Support",
+              "description": "Discord//discord.gg/P6Kyd98KZ7",
+              "source": "@site/docs/Developers/dev-support.md",
+              "sourceDirName": "Developers",
+              "slug": "/Developers/dev-support",
+              "permalink": "/docs/Developers/dev-support",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Developers/dev-support.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/docs/Developers/dev-overview"
+              },
+              "next": {
+                "title": "Training",
+                "permalink": "/docs/Developers/dev-training"
+              }
+            },
+            {
+              "unversionedId": "Developers/dev-training",
+              "id": "Developers/dev-training",
+              "isDocsHomePage": false,
+              "title": "Training",
+              "description": "",
+              "source": "@site/docs/Developers/dev-training.md",
+              "sourceDirName": "Developers",
+              "slug": "/Developers/dev-training",
+              "permalink": "/docs/Developers/dev-training",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Developers/dev-training.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Support",
+                "permalink": "/docs/Developers/dev-support"
+              },
+              "next": {
+                "title": "Gaming",
+                "permalink": "/docs/Developers/gaming"
+              }
+            },
+            {
+              "unversionedId": "Developers/gaming",
+              "id": "Developers/gaming",
+              "isDocsHomePage": false,
+              "title": "Gaming",
+              "description": "Hello, world!  This is a quick slug about building games on NEAR.",
+              "source": "@site/docs/Developers/gaming.md",
+              "sourceDirName": "Developers",
+              "slug": "/Developers/gaming",
+              "permalink": "/docs/Developers/gaming",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Developers/gaming.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Training",
+                "permalink": "/docs/Developers/dev-training"
+              },
+              "next": {
+                "title": "Community",
+                "permalink": "/docs/End Users/user-community"
+              }
+            },
+            {
+              "unversionedId": "End Users/user-community",
+              "id": "End Users/user-community",
+              "isDocsHomePage": false,
+              "title": "Community",
+              "description": "",
+              "source": "@site/docs/End Users/user-community.md",
+              "sourceDirName": "End Users",
+              "slug": "/End Users/user-community",
+              "permalink": "/docs/End Users/user-community",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/End Users/user-community.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Gaming",
+                "permalink": "/docs/Developers/gaming"
+              },
+              "next": {
+                "title": "dApps",
+                "permalink": "/docs/End Users/user-dapps"
+              }
+            },
+            {
+              "unversionedId": "End Users/user-dapps",
+              "id": "End Users/user-dapps",
+              "isDocsHomePage": false,
+              "title": "dApps",
+              "description": "Frequently Used dApps:",
+              "source": "@site/docs/End Users/user-dapps.md",
+              "sourceDirName": "End Users",
+              "slug": "/End Users/user-dapps",
+              "permalink": "/docs/End Users/user-dapps",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/End Users/user-dapps.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Community",
+                "permalink": "/docs/End Users/user-community"
+              },
+              "next": {
+                "title": "Earn",
+                "permalink": "/docs/End Users/user-earn"
+              }
+            },
+            {
+              "unversionedId": "End Users/user-earn",
+              "id": "End Users/user-earn",
+              "isDocsHomePage": false,
+              "title": "Earn",
+              "description": "NEAR Guilds - https://nearguilds.com/guilds/",
+              "source": "@site/docs/End Users/user-earn.md",
+              "sourceDirName": "End Users",
+              "slug": "/End Users/user-earn",
+              "permalink": "/docs/End Users/user-earn",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/End Users/user-earn.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "dApps",
+                "permalink": "/docs/End Users/user-dapps"
+              },
+              "next": {
+                "title": "Education",
+                "permalink": "/docs/End Users/user-education"
+              }
+            },
+            {
+              "unversionedId": "End Users/user-education",
+              "id": "End Users/user-education",
+              "isDocsHomePage": false,
+              "title": "Education",
+              "description": "Rainbow Bridge Tutorial//docs.near.org/docs/tutorials/rainbow-bridge-frontend-mainnet",
+              "source": "@site/docs/End Users/user-education.md",
+              "sourceDirName": "End Users",
+              "slug": "/End Users/user-education",
+              "permalink": "/docs/End Users/user-education",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/End Users/user-education.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Earn",
+                "permalink": "/docs/End Users/user-earn"
+              },
+              "next": {
+                "title": "Events",
+                "permalink": "/docs/End Users/user-events"
+              }
+            },
+            {
+              "unversionedId": "End Users/user-events",
+              "id": "End Users/user-events",
+              "isDocsHomePage": false,
+              "title": "Events",
+              "description": "",
+              "source": "@site/docs/End Users/user-events.md",
+              "sourceDirName": "End Users",
+              "slug": "/End Users/user-events",
+              "permalink": "/docs/End Users/user-events",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/End Users/user-events.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Education",
+                "permalink": "/docs/End Users/user-education"
+              },
+              "next": {
+                "title": "Overview",
+                "permalink": "/docs/End Users/user-overview"
+              }
+            },
+            {
+              "unversionedId": "End Users/user-overview",
+              "id": "End Users/user-overview",
+              "isDocsHomePage": false,
+              "title": "Overview",
+              "description": "If you're new to NEAR or have been here from the start we're all users! Find resources to get started with using NEAR or info to help you engage even deeper into the NEARVerse.",
+              "source": "@site/docs/End Users/user-overview.md",
+              "sourceDirName": "End Users",
+              "slug": "/End Users/user-overview",
+              "permalink": "/docs/End Users/user-overview",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/End Users/user-overview.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Events",
+                "permalink": "/docs/End Users/user-events"
+              },
+              "next": {
+                "title": "Support",
+                "permalink": "/docs/End Users/user-support"
+              }
+            },
+            {
+              "unversionedId": "End Users/user-support",
+              "id": "End Users/user-support",
+              "isDocsHomePage": false,
+              "title": "Support",
+              "description": "Discord Support//discord.gg/Yp8Uv6kw7t",
+              "source": "@site/docs/End Users/user-support.md",
+              "sourceDirName": "End Users",
+              "slug": "/End Users/user-support",
+              "permalink": "/docs/End Users/user-support",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/End Users/user-support.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/docs/End Users/user-overview"
+              },
+              "next": {
+                "title": "NEAR Forum Guidelines",
+                "permalink": "/docs/Forum/near-forum-guidelines"
+              }
+            },
+            {
+              "unversionedId": "Forum/near-forum-guidelines",
+              "id": "Forum/near-forum-guidelines",
+              "isDocsHomePage": false,
+              "title": "NEAR Forum Guidelines",
+              "description": "You guide for interacting in the NEAR Governance Forum",
+              "source": "@site/docs/Forum/near-forum-guidelines.md",
+              "sourceDirName": "Forum",
+              "slug": "/Forum/near-forum-guidelines",
+              "permalink": "/docs/Forum/near-forum-guidelines",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Forum/near-forum-guidelines.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "You guide for interacting in the NEAR Governance Forum"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Support",
+                "permalink": "/docs/End Users/user-support"
+              },
+              "next": {
+                "title": "What is the NEAR Governance Forum?",
+                "permalink": "/docs/Forum/what-is-the-near-governance-forum"
+              }
+            },
+            {
+              "unversionedId": "Forum/what-is-the-near-governance-forum",
+              "id": "Forum/what-is-the-near-governance-forum",
+              "isDocsHomePage": false,
+              "title": "What is the NEAR Governance Forum?",
+              "description": "Your go-to place to discuss everything NEAR",
+              "source": "@site/docs/Forum/what-is-the-near-governance-forum.md",
+              "sourceDirName": "Forum",
+              "slug": "/Forum/what-is-the-near-governance-forum",
+              "permalink": "/docs/Forum/what-is-the-near-governance-forum",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Forum/what-is-the-near-governance-forum.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Your go-to place to discuss everything NEAR"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NEAR Forum Guidelines",
+                "permalink": "/docs/Forum/near-forum-guidelines"
+              },
+              "next": {
+                "title": "Education",
+                "permalink": "/docs/Founders/founder-education"
+              }
+            },
+            {
+              "unversionedId": "Founders/founder-education",
+              "id": "Founders/founder-education",
+              "isDocsHomePage": false,
+              "title": "Education",
+              "description": "",
+              "source": "@site/docs/Founders/founder-education.md",
+              "sourceDirName": "Founders",
+              "slug": "/Founders/founder-education",
+              "permalink": "/docs/Founders/founder-education",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Founders/founder-education.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "What is the NEAR Governance Forum?",
+                "permalink": "/docs/Forum/what-is-the-near-governance-forum"
+              },
+              "next": {
+                "title": "Events",
+                "permalink": "/docs/Founders/founder-events"
+              }
+            },
+            {
+              "unversionedId": "Founders/founder-events",
+              "id": "Founders/founder-events",
+              "isDocsHomePage": false,
+              "title": "Events",
+              "description": "",
+              "source": "@site/docs/Founders/founder-events.md",
+              "sourceDirName": "Founders",
+              "slug": "/Founders/founder-events",
+              "permalink": "/docs/Founders/founder-events",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Founders/founder-events.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Education",
+                "permalink": "/docs/Founders/founder-education"
+              },
+              "next": {
+                "title": "Overview",
+                "permalink": "/docs/Founders/founder-overview"
+              }
+            },
+            {
+              "unversionedId": "Founders/founder-overview",
+              "id": "Founders/founder-overview",
+              "isDocsHomePage": false,
+              "title": "Overview",
+              "description": "",
+              "source": "@site/docs/Founders/founder-overview.md",
+              "sourceDirName": "Founders",
+              "slug": "/Founders/founder-overview",
+              "permalink": "/docs/Founders/founder-overview",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Founders/founder-overview.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Events",
+                "permalink": "/docs/Founders/founder-events"
+              },
+              "next": {
+                "title": "Grants & Funding",
+                "permalink": "/docs/Getting Started/grants-and-funding"
+              }
+            },
+            {
+              "unversionedId": "Getting Started/ecosystem-success/business-development",
+              "id": "Getting Started/ecosystem-success/business-development",
+              "isDocsHomePage": false,
+              "title": "Business Development",
+              "description": "",
+              "source": "@site/docs/Getting Started/ecosystem-success/business-development.md",
+              "sourceDirName": "Getting Started/ecosystem-success",
+              "slug": "/Getting Started/ecosystem-success/business-development",
+              "permalink": "/docs/Getting Started/ecosystem-success/business-development",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Getting Started/ecosystem-success/business-development.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ecosystem Team",
+                "permalink": "/docs/Getting Started/ecosystem-success/README"
+              },
+              "next": {
+                "title": "Ecosystem Intelligence",
+                "permalink": "/docs/Getting Started/ecosystem-success/ecosystem-intelligence"
+              }
+            },
+            {
+              "unversionedId": "Getting Started/ecosystem-success/ecosystem-intelligence",
+              "id": "Getting Started/ecosystem-success/ecosystem-intelligence",
+              "isDocsHomePage": false,
+              "title": "Ecosystem Intelligence",
+              "description": "WIP Q4 2021",
+              "source": "@site/docs/Getting Started/ecosystem-success/ecosystem-intelligence.md",
+              "sourceDirName": "Getting Started/ecosystem-success",
+              "slug": "/Getting Started/ecosystem-success/ecosystem-intelligence",
+              "permalink": "/docs/Getting Started/ecosystem-success/ecosystem-intelligence",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Getting Started/ecosystem-success/ecosystem-intelligence.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "WIP Q4 2021"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Business Development",
+                "permalink": "/docs/Getting Started/ecosystem-success/business-development"
+              },
+              "next": {
+                "title": "Ecosystem Success",
+                "permalink": "/docs/Getting Started/ecosystem-success/ecosystem-success"
+              }
+            },
+            {
+              "unversionedId": "Getting Started/ecosystem-success/ecosystem-success",
+              "id": "Getting Started/ecosystem-success/ecosystem-success",
+              "isDocsHomePage": false,
+              "title": "Ecosystem Success",
+              "description": "Onboarding projects into the ecosystem&x20;",
+              "source": "@site/docs/Getting Started/ecosystem-success/ecosystem-success.md",
+              "sourceDirName": "Getting Started/ecosystem-success",
+              "slug": "/Getting Started/ecosystem-success/ecosystem-success",
+              "permalink": "/docs/Getting Started/ecosystem-success/ecosystem-success",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Getting Started/ecosystem-success/ecosystem-success.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ecosystem Intelligence",
+                "permalink": "/docs/Getting Started/ecosystem-success/ecosystem-intelligence"
+              },
+              "next": {
+                "title": "Service Catalog",
+                "permalink": "/docs/Getting Started/ecosystem-success/resources-available"
+              }
+            },
+            {
+              "unversionedId": "Getting Started/ecosystem-success/README",
+              "id": "Getting Started/ecosystem-success/README",
+              "isDocsHomePage": false,
+              "title": "Ecosystem Team",
+              "description": "The Ecosystem Team supports projects and builders committed to building on NEAR.",
+              "source": "@site/docs/Getting Started/ecosystem-success/README.md",
+              "sourceDirName": "Getting Started/ecosystem-success",
+              "slug": "/Getting Started/ecosystem-success/README",
+              "permalink": "/docs/Getting Started/ecosystem-success/README",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Getting Started/ecosystem-success/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Resources",
+                "permalink": "/docs/Getting Started/resources"
+              },
+              "next": {
+                "title": "Business Development",
+                "permalink": "/docs/Getting Started/ecosystem-success/business-development"
+              }
+            },
+            {
+              "unversionedId": "Getting Started/ecosystem-success/resources-available",
+              "id": "Getting Started/ecosystem-success/resources-available",
+              "isDocsHomePage": false,
+              "title": "Service Catalog",
+              "description": "These are the various resources available throughout the NEAR ecosystem to help with your journey. This list is by no means complete, please reach out to us for specific questions!",
+              "source": "@site/docs/Getting Started/ecosystem-success/resources-available.md",
+              "sourceDirName": "Getting Started/ecosystem-success",
+              "slug": "/Getting Started/ecosystem-success/resources-available",
+              "permalink": "/docs/Getting Started/ecosystem-success/resources-available",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Getting Started/ecosystem-success/resources-available.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "These are the various resources available throughout the NEAR ecosystem to help with your journey. This list is by no means complete, please reach out to us for specific questions!"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ecosystem Success",
+                "permalink": "/docs/Getting Started/ecosystem-success/ecosystem-success"
+              },
+              "next": {
+                "title": "NEAR Token",
+                "permalink": "/docs/Getting Started/near-token/README"
+              }
+            },
+            {
+              "unversionedId": "Getting Started/grants-and-funding",
+              "id": "Getting Started/grants-and-funding",
+              "isDocsHomePage": false,
+              "title": "Grants & Funding",
+              "description": "The NEAR Ecosystem has a number of ways to get your project or initiative funded.",
+              "source": "@site/docs/Getting Started/grants-and-funding.md",
+              "sourceDirName": "Getting Started",
+              "slug": "/Getting Started/grants-and-funding",
+              "permalink": "/docs/Getting Started/grants-and-funding",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Getting Started/grants-and-funding.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/docs/Founders/founder-overview"
+              },
+              "next": {
+                "title": "Resources",
+                "permalink": "/docs/Getting Started/resources"
+              }
+            },
+            {
+              "unversionedId": "Getting Started/near-token/delegation",
+              "id": "Getting Started/near-token/delegation",
+              "isDocsHomePage": false,
+              "title": "Token Delegation",
+              "description": "Overview",
+              "source": "@site/docs/Getting Started/near-token/token-delegation.md",
+              "sourceDirName": "Getting Started/near-token",
+              "slug": "/Getting Started/near-token/delegation",
+              "permalink": "/docs/Getting Started/near-token/delegation",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Getting Started/near-token/token-delegation.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "delegation",
+                "title": "Token Delegation",
+                "sidebar_label": "Token Delegation"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Token Custody",
+                "permalink": "/docs/Getting Started/near-token/token-custody"
+              },
+              "next": {
+                "title": "What's an NFT?",
+                "permalink": "/docs/Getting Started/near-token/whats-an-nft"
+              }
+            },
+            {
+              "unversionedId": "Getting Started/near-token/lockups",
+              "id": "Getting Started/near-token/lockups",
+              "isDocsHomePage": false,
+              "title": "Lockups",
+              "description": "These docs include information about lockups in general, how they are implemented on NEAR, some challenges this causes, and how you can delegate your locked tokens.",
+              "source": "@site/docs/Getting Started/near-token/lockups.md",
+              "sourceDirName": "Getting Started/near-token",
+              "slug": "/Getting Started/near-token/lockups",
+              "permalink": "/docs/Getting Started/near-token/lockups",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Getting Started/near-token/lockups.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NEAR Token",
+                "permalink": "/docs/Getting Started/near-token/README"
+              },
+              "next": {
+                "title": "Token Balance",
+                "permalink": "/docs/Getting Started/near-token/token-balance"
+              }
+            },
+            {
+              "unversionedId": "Getting Started/near-token/README",
+              "id": "Getting Started/near-token/README",
+              "isDocsHomePage": false,
+              "title": "NEAR Token",
+              "description": "Everything you need to know about NEAR Token",
+              "source": "@site/docs/Getting Started/near-token/README.md",
+              "sourceDirName": "Getting Started/near-token",
+              "slug": "/Getting Started/near-token/README",
+              "permalink": "/docs/Getting Started/near-token/README",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Getting Started/near-token/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Everything you need to know about NEAR Token"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Service Catalog",
+                "permalink": "/docs/Getting Started/ecosystem-success/resources-available"
+              },
+              "next": {
+                "title": "Lockups",
+                "permalink": "/docs/Getting Started/near-token/lockups"
+              }
+            },
+            {
+              "unversionedId": "Getting Started/near-token/token-balance",
+              "id": "Getting Started/near-token/token-balance",
+              "isDocsHomePage": false,
+              "title": "Token Balance",
+              "description": "Examples from our RPC are used. If you want to look at information about archival nodes (more than 2 days ago), please use archival prefix in your URL (e.g. https//archival-rpc.mainnet.near.org. Body:",
+              "source": "@site/docs/Getting Started/near-token/token-balance.md",
+              "sourceDirName": "Getting Started/near-token",
+              "slug": "/Getting Started/near-token/token-balance",
+              "permalink": "/docs/Getting Started/near-token/token-balance",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Getting Started/near-token/token-balance.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lockups",
+                "permalink": "/docs/Getting Started/near-token/lockups"
+              },
+              "next": {
+                "title": "Token Custody",
+                "permalink": "/docs/Getting Started/near-token/token-custody"
+              }
+            },
+            {
+              "unversionedId": "Getting Started/near-token/token-custody",
+              "id": "Getting Started/near-token/token-custody",
+              "isDocsHomePage": false,
+              "title": "Token Custody Options",
+              "description": "There are several options available to manage your NEAR and NEAR-based assets.",
+              "source": "@site/docs/Getting Started/near-token/token-custody.md",
+              "sourceDirName": "Getting Started/near-token",
+              "slug": "/Getting Started/near-token/token-custody",
+              "permalink": "/docs/Getting Started/near-token/token-custody",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Getting Started/near-token/token-custody.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "token-custody",
+                "title": "Token Custody Options",
+                "sidebar_label": "Token Custody"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Token Balance",
+                "permalink": "/docs/Getting Started/near-token/token-balance"
+              },
+              "next": {
+                "title": "Token Delegation",
+                "permalink": "/docs/Getting Started/near-token/delegation"
+              }
+            },
+            {
+              "unversionedId": "Getting Started/near-token/whats-an-nft",
+              "id": "Getting Started/near-token/whats-an-nft",
+              "isDocsHomePage": false,
+              "title": "What's an NFT?",
+              "description": "Non-Fungible Tokens (NFTs) are digital certificates of ownership for digital assets. These digital certificates are published into an ERC-721 token, and once written, they're secured on the blockchain.",
+              "source": "@site/docs/Getting Started/near-token/whats-an-nft.md",
+              "sourceDirName": "Getting Started/near-token",
+              "slug": "/Getting Started/near-token/whats-an-nft",
+              "permalink": "/docs/Getting Started/near-token/whats-an-nft",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Getting Started/near-token/whats-an-nft.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Token Delegation",
+                "permalink": "/docs/Getting Started/near-token/delegation"
+              },
+              "next": {
+                "title": "AstroDAO",
+                "permalink": "/docs/Governance/astrodao"
+              }
+            },
+            {
+              "unversionedId": "Getting Started/resources",
+              "id": "Getting Started/resources",
+              "isDocsHomePage": false,
+              "title": "Resources",
+              "description": "NEAR Website//near.org/",
+              "source": "@site/docs/Getting Started/resources.md",
+              "sourceDirName": "Getting Started",
+              "slug": "/Getting Started/resources",
+              "permalink": "/docs/Getting Started/resources",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Getting Started/resources.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Grants & Funding",
+                "permalink": "/docs/Getting Started/grants-and-funding"
+              },
+              "next": {
+                "title": "Ecosystem Team",
+                "permalink": "/docs/Getting Started/ecosystem-success/README"
+              }
+            },
+            {
+              "unversionedId": "Governance/astrodao",
+              "id": "Governance/astrodao",
+              "isDocsHomePage": false,
+              "title": "AstroDAO",
+              "description": "Astro DAO Factory aka Astro DAO of DAOs",
+              "source": "@site/docs/Governance/astrodao.md",
+              "sourceDirName": "Governance",
+              "slug": "/Governance/astrodao",
+              "permalink": "/docs/Governance/astrodao",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Governance/astrodao.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Astro DAO Factory aka Astro DAO of DAOs"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "What's an NFT?",
+                "permalink": "/docs/Getting Started/near-token/whats-an-nft"
+              },
+              "next": {
+                "title": "NEAR Forum Guidelines",
+                "permalink": "/docs/Governance/near-forum-guidelines"
+              }
+            },
+            {
+              "unversionedId": "Governance/near-forum-guidelines",
+              "id": "Governance/near-forum-guidelines",
+              "isDocsHomePage": false,
+              "title": "NEAR Forum Guidelines",
+              "description": "You guide for interacting in the NEAR Governance Forum",
+              "source": "@site/docs/Governance/near-forum-guidelines.md",
+              "sourceDirName": "Governance",
+              "slug": "/Governance/near-forum-guidelines",
+              "permalink": "/docs/Governance/near-forum-guidelines",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Governance/near-forum-guidelines.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "You guide for interacting in the NEAR Governance Forum"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "AstroDAO",
+                "permalink": "/docs/Governance/astrodao"
+              },
+              "next": {
+                "title": "What is the NEAR Governance Forum?",
+                "permalink": "/docs/Governance/what-is-the-near-governance-forum"
+              }
+            },
+            {
+              "unversionedId": "Governance/what-is-the-near-governance-forum",
+              "id": "Governance/what-is-the-near-governance-forum",
+              "isDocsHomePage": false,
+              "title": "What is the NEAR Governance Forum?",
+              "description": "Your go-to place to discuss everything NEAR",
+              "source": "@site/docs/Governance/what-is-the-near-governance-forum.md",
+              "sourceDirName": "Governance",
+              "slug": "/Governance/what-is-the-near-governance-forum",
+              "permalink": "/docs/Governance/what-is-the-near-governance-forum",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Governance/what-is-the-near-governance-forum.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Your go-to place to discuss everything NEAR"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NEAR Forum Guidelines",
+                "permalink": "/docs/Governance/near-forum-guidelines"
+              },
+              "next": {
+                "title": "Your Guide to DAOs on NEAR",
+                "permalink": "/docs/Governance/your-guide-to-daos-on-near"
+              }
+            },
+            {
+              "unversionedId": "Governance/your-guide-to-daos-on-near",
+              "id": "Governance/your-guide-to-daos-on-near",
+              "isDocsHomePage": false,
+              "title": "Your Guide to DAOs on NEAR",
+              "description": "Your map to navigating the world of DAOs on NEAR",
+              "source": "@site/docs/Governance/your-guide-to-daos-on-near.md",
+              "sourceDirName": "Governance",
+              "slug": "/Governance/your-guide-to-daos-on-near",
+              "permalink": "/docs/Governance/your-guide-to-daos-on-near",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Governance/your-guide-to-daos-on-near.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Your map to navigating the world of DAOs on NEAR"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "What is the NEAR Governance Forum?",
+                "permalink": "/docs/Governance/what-is-the-near-governance-forum"
+              },
+              "next": {
+                "title": "Community",
+                "permalink": "/docs/Guilds/guild-community"
+              }
+            },
+            {
+              "unversionedId": "Guilds/guild-community",
+              "id": "Guilds/guild-community",
+              "isDocsHomePage": false,
+              "title": "Community",
+              "description": "",
+              "source": "@site/docs/Guilds/guild-community.md",
+              "sourceDirName": "Guilds",
+              "slug": "/Guilds/guild-community",
+              "permalink": "/docs/Guilds/guild-community",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Guilds/guild-community.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Your Guide to DAOs on NEAR",
+                "permalink": "/docs/Governance/your-guide-to-daos-on-near"
+              },
+              "next": {
+                "title": "Get Started",
+                "permalink": "/docs/Guilds/guild-getstarted"
+              }
+            },
+            {
+              "unversionedId": "Guilds/guild-getstarted",
+              "id": "Guilds/guild-getstarted",
+              "isDocsHomePage": false,
+              "title": "Get Started",
+              "description": "Join a Guild:",
+              "source": "@site/docs/Guilds/guild-getstarted.md",
+              "sourceDirName": "Guilds",
+              "slug": "/Guilds/guild-getstarted",
+              "permalink": "/docs/Guilds/guild-getstarted",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Guilds/guild-getstarted.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Community",
+                "permalink": "/docs/Guilds/guild-community"
+              },
+              "next": {
+                "title": "Overview",
+                "permalink": "/docs/Guilds/guild-overview"
+              }
+            },
+            {
+              "unversionedId": "Guilds/guild-overview",
+              "id": "Guilds/guild-overview",
+              "isDocsHomePage": false,
+              "title": "Overview",
+              "description": "Guilds are the heart beat of the NEARVerse.",
+              "source": "@site/docs/Guilds/guild-overview.md",
+              "sourceDirName": "Guilds",
+              "slug": "/Guilds/guild-overview",
+              "permalink": "/docs/Guilds/guild-overview",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Guilds/guild-overview.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Guilds are the heart beat of the NEARVerse."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get Started",
+                "permalink": "/docs/Guilds/guild-getstarted"
+              },
+              "next": {
+                "title": "Reporting",
+                "permalink": "/docs/Guilds/guild-reporting"
+              }
+            },
+            {
+              "unversionedId": "Guilds/guild-reporting",
+              "id": "Guilds/guild-reporting",
+              "isDocsHomePage": false,
+              "title": "Reporting",
+              "description": "Monthly Reporting//gov.near.org/c/community/guilds/18",
+              "source": "@site/docs/Guilds/guild-reporting.md",
+              "sourceDirName": "Guilds",
+              "slug": "/Guilds/guild-reporting",
+              "permalink": "/docs/Guilds/guild-reporting",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Guilds/guild-reporting.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/docs/Guilds/guild-overview"
+              },
+              "next": {
+                "title": "Support",
+                "permalink": "/docs/Guilds/guild-support"
+              }
+            },
+            {
+              "unversionedId": "Guilds/guild-support",
+              "id": "Guilds/guild-support",
+              "isDocsHomePage": false,
+              "title": "Support",
+              "description": "",
+              "source": "@site/docs/Guilds/guild-support.md",
+              "sourceDirName": "Guilds",
+              "slug": "/Guilds/guild-support",
+              "permalink": "/docs/Guilds/guild-support",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Guilds/guild-support.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Reporting",
+                "permalink": "/docs/Guilds/guild-reporting"
+              },
+              "next": {
+                "title": "Overview",
+                "permalink": "/docs/Investors/investor-overview"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "Welcome to NEAR!",
+              "description": "Find tools, connections and resources to journey through the NEARVerse.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "description": "Find tools, connections and resources to journey through the NEARVerse."
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Docs",
+                "permalink": "/docs/Developers/dev-docs"
+              }
+            },
+            {
+              "unversionedId": "Investors/investor-overview",
+              "id": "Investors/investor-overview",
+              "isDocsHomePage": false,
+              "title": "Overview",
+              "description": "",
+              "source": "@site/docs/Investors/investor-overview.md",
+              "sourceDirName": "Investors",
+              "slug": "/Investors/investor-overview",
+              "permalink": "/docs/Investors/investor-overview",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Investors/investor-overview.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Support",
+                "permalink": "/docs/Guilds/guild-support"
+              },
+              "next": {
+                "title": "Resources",
+                "permalink": "/docs/Investors/investor-resources"
+              }
+            },
+            {
+              "unversionedId": "Investors/investor-resources",
+              "id": "Investors/investor-resources",
+              "isDocsHomePage": false,
+              "title": "Resources",
+              "description": "",
+              "source": "@site/docs/Investors/investor-resources.md",
+              "sourceDirName": "Investors",
+              "slug": "/Investors/investor-resources",
+              "permalink": "/docs/Investors/investor-resources",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Investors/investor-resources.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/docs/Investors/investor-overview"
+              },
+              "next": {
+                "title": "Support",
+                "permalink": "/docs/Investors/investor-support"
+              }
+            },
+            {
+              "unversionedId": "Investors/investor-support",
+              "id": "Investors/investor-support",
+              "isDocsHomePage": false,
+              "title": "Support",
+              "description": "",
+              "source": "@site/docs/Investors/investor-support.md",
+              "sourceDirName": "Investors",
+              "slug": "/Investors/investor-support",
+              "permalink": "/docs/Investors/investor-support",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Investors/investor-support.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Resources",
+                "permalink": "/docs/Investors/investor-resources"
+              },
+              "next": {
+                "title": "What's NEW",
+                "permalink": "/docs/News/whats-new"
+              }
+            },
+            {
+              "unversionedId": "News/whats-new",
+              "id": "News/whats-new",
+              "isDocsHomePage": false,
+              "title": "What's NEW",
+              "description": "Highlights of What's happening in the NEARVerse.",
+              "source": "@site/docs/News/whats-new.md",
+              "sourceDirName": "News",
+              "slug": "/News/whats-new",
+              "permalink": "/docs/News/whats-new",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/News/whats-new.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Highlights of What's happening in the NEARVerse."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Support",
+                "permalink": "/docs/Investors/investor-support"
+              },
+              "next": {
+                "title": "Why NEAR?",
+                "permalink": "/docs/News/why-near"
+              }
+            },
+            {
+              "unversionedId": "News/why-near",
+              "id": "News/why-near",
+              "isDocsHomePage": false,
+              "title": "Why NEAR?",
+              "description": "",
+              "source": "@site/docs/News/why-near.md",
+              "sourceDirName": "News",
+              "slug": "/News/why-near",
+              "permalink": "/docs/News/why-near",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/News/why-near.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "What's NEW",
+                "permalink": "/docs/News/whats-new"
+              },
+              "next": {
+                "title": "Analytics",
+                "permalink": "/docs/Resources/analytics"
+              }
+            },
+            {
+              "unversionedId": "Resources/analytics",
+              "id": "Resources/analytics",
+              "isDocsHomePage": false,
+              "title": "Analytics",
+              "description": "Resources for doing analytics in the NEAR ecosystem:",
+              "source": "@site/docs/Resources/analytics.md",
+              "sourceDirName": "Resources",
+              "slug": "/Resources/analytics",
+              "permalink": "/docs/Resources/analytics",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Resources/analytics.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Why NEAR?",
+                "permalink": "/docs/News/why-near"
+              },
+              "next": {
+                "title": "Contributing",
+                "permalink": "/docs/Resources/contributing"
+              }
+            },
+            {
+              "unversionedId": "Resources/contributing",
+              "id": "Resources/contributing",
+              "isDocsHomePage": false,
+              "title": "Contributing",
+              "description": "This Wiki is Community driven and all contributions about NEAR and it's ecosystem are welcomed.",
+              "source": "@site/docs/Resources/contributing.md",
+              "sourceDirName": "Resources",
+              "slug": "/Resources/contributing",
+              "permalink": "/docs/Resources/contributing",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Resources/contributing.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Analytics",
+                "permalink": "/docs/Resources/analytics"
+              },
+              "next": {
+                "title": "FAQ",
+                "permalink": "/docs/Resources/faq/README"
+              }
+            },
+            {
+              "unversionedId": "Resources/faq/integrator-faq",
+              "id": "Resources/faq/integrator-faq",
+              "isDocsHomePage": false,
+              "title": "Integrator FAQ",
+              "description": "Orientation",
+              "source": "@site/docs/Resources/faq/integrator-faq.md",
+              "sourceDirName": "Resources/faq",
+              "slug": "/Resources/faq/integrator-faq",
+              "permalink": "/docs/Resources/faq/integrator-faq",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Resources/faq/integrator-faq.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "FAQ",
+                "permalink": "/docs/Resources/faq/README"
+              },
+              "next": {
+                "title": "Onboarding With LinkDrop",
+                "permalink": "/docs/Resources/faq/onboarding-with-linkdrop"
+              }
+            },
+            {
+              "unversionedId": "Resources/faq/onboarding-with-linkdrop",
+              "id": "Resources/faq/onboarding-with-linkdrop",
+              "isDocsHomePage": false,
+              "title": "Onboarding With LinkDrop",
+              "description": "An easy way to onboard someone new to the NEAR ecosystem is by sending them a linkdrop URL to which will send the receiver to the NEAR wallet as shown below.",
+              "source": "@site/docs/Resources/faq/onboarding-with-linkdrop.md",
+              "sourceDirName": "Resources/faq",
+              "slug": "/Resources/faq/onboarding-with-linkdrop",
+              "permalink": "/docs/Resources/faq/onboarding-with-linkdrop",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Resources/faq/onboarding-with-linkdrop.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Integrator FAQ",
+                "permalink": "/docs/Resources/faq/integrator-faq"
+              },
+              "next": {
+                "title": "Legal Resources",
+                "permalink": "/docs/Resources/legal-resources/README"
+              }
+            },
+            {
+              "unversionedId": "Resources/faq/README",
+              "id": "Resources/faq/README",
+              "isDocsHomePage": false,
+              "title": "FAQ",
+              "description": "Frequently asked question about NEAR",
+              "source": "@site/docs/Resources/faq/README.md",
+              "sourceDirName": "Resources/faq",
+              "slug": "/Resources/faq/README",
+              "permalink": "/docs/Resources/faq/README",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Resources/faq/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Frequently asked question about NEAR"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Contributing",
+                "permalink": "/docs/Resources/contributing"
+              },
+              "next": {
+                "title": "Integrator FAQ",
+                "permalink": "/docs/Resources/faq/integrator-faq"
+              }
+            },
+            {
+              "unversionedId": "Resources/legal-resources/legal-checklist",
+              "id": "Resources/legal-resources/legal-checklist",
+              "isDocsHomePage": false,
+              "title": "Legal Checklist",
+              "description": "Legal Setup",
+              "source": "@site/docs/Resources/legal-resources/legal-checklist.md",
+              "sourceDirName": "Resources/legal-resources",
+              "slug": "/Resources/legal-resources/legal-checklist",
+              "permalink": "/docs/Resources/legal-resources/legal-checklist",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Resources/legal-resources/legal-checklist.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Legal Resources",
+                "permalink": "/docs/Resources/legal-resources/README"
+              },
+              "next": {
+                "title": "Overview of NEAR Protocol",
+                "permalink": "/docs/Technology/overview-of-near-protocol"
+              }
+            },
+            {
+              "unversionedId": "Resources/legal-resources/README",
+              "id": "Resources/legal-resources/README",
+              "isDocsHomePage": false,
+              "title": "Legal Resources",
+              "description": "Legal resources to support a decentralized world",
+              "source": "@site/docs/Resources/legal-resources/README.md",
+              "sourceDirName": "Resources/legal-resources",
+              "slug": "/Resources/legal-resources/README",
+              "permalink": "/docs/Resources/legal-resources/README",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Resources/legal-resources/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Legal resources to support a decentralized world"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Onboarding With LinkDrop",
+                "permalink": "/docs/Resources/faq/onboarding-with-linkdrop"
+              },
+              "next": {
+                "title": "Legal Checklist",
+                "permalink": "/docs/Resources/legal-resources/legal-checklist"
+              }
+            },
+            {
+              "unversionedId": "Technology/overview-of-near-protocol",
+              "id": "Technology/overview-of-near-protocol",
+              "isDocsHomePage": false,
+              "title": "Overview of NEAR Protocol",
+              "description": "",
+              "source": "@site/docs/Technology/overview-of-near-protocol.md",
+              "sourceDirName": "Technology",
+              "slug": "/Technology/overview-of-near-protocol",
+              "permalink": "/docs/Technology/overview-of-near-protocol",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Technology/overview-of-near-protocol.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Legal Checklist",
+                "permalink": "/docs/Resources/legal-resources/legal-checklist"
+              },
+              "next": {
+                "title": "Research",
+                "permalink": "/docs/Technology/research"
+              }
+            },
+            {
+              "unversionedId": "Technology/research",
+              "id": "Technology/research",
+              "isDocsHomePage": false,
+              "title": "Research",
+              "description": "Research Papers",
+              "source": "@site/docs/Technology/research.md",
+              "sourceDirName": "Technology",
+              "slug": "/Technology/research",
+              "permalink": "/docs/Technology/research",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Technology/research.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview of NEAR Protocol",
+                "permalink": "/docs/Technology/overview-of-near-protocol"
+              },
+              "next": {
+                "title": "Technical Documentation",
+                "permalink": "/docs/Technology/technical-documentation/README"
+              }
+            },
+            {
+              "unversionedId": "Technology/technical-documentation/access-keys",
+              "id": "Technology/technical-documentation/access-keys",
+              "isDocsHomePage": false,
+              "title": "Access Keys",
+              "description": "How Access Keys Work on Other Blockchains",
+              "source": "@site/docs/Technology/technical-documentation/access-keys.md",
+              "sourceDirName": "Technology/technical-documentation",
+              "slug": "/Technology/technical-documentation/access-keys",
+              "permalink": "/docs/Technology/technical-documentation/access-keys",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Technology/technical-documentation/access-keys.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Technical Documentation",
+                "permalink": "/docs/Technology/technical-documentation/README"
+              },
+              "next": {
+                "title": "Education",
+                "permalink": "/docs/Validators/validator-education"
+              }
+            },
+            {
+              "unversionedId": "Technology/technical-documentation/README",
+              "id": "Technology/technical-documentation/README",
+              "isDocsHomePage": false,
+              "title": "Technical Documentation",
+              "description": "High level documentation",
+              "source": "@site/docs/Technology/technical-documentation/README.md",
+              "sourceDirName": "Technology/technical-documentation",
+              "slug": "/Technology/technical-documentation/README",
+              "permalink": "/docs/Technology/technical-documentation/README",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Technology/technical-documentation/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Research",
+                "permalink": "/docs/Technology/research"
+              },
+              "next": {
+                "title": "Access Keys",
+                "permalink": "/docs/Technology/technical-documentation/access-keys"
+              }
+            },
+            {
+              "unversionedId": "Validators/staking-overview",
+              "id": "Validators/staking-overview",
+              "isDocsHomePage": false,
+              "title": "Staking Orientation",
+              "description": "Welcome",
+              "source": "@site/docs/Validators/validator-overview.md",
+              "sourceDirName": "Validators",
+              "slug": "/Validators/staking-overview",
+              "permalink": "/docs/Validators/staking-overview",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Validators/validator-overview.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "staking-overview",
+                "title": "Staking Orientation",
+                "sidebar_label": "Orientation"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Events",
+                "permalink": "/docs/Validators/validator-events"
+              },
+              "next": {
+                "title": "Training",
+                "permalink": "/docs/Validators/validator-training"
+              }
+            },
+            {
+              "unversionedId": "Validators/validator-docs/hardware",
+              "id": "Validators/validator-docs/hardware",
+              "isDocsHomePage": false,
+              "title": "Hardware Requirements for Validator Node",
+              "description": "NEAR Validator Node Hardware Requirements",
+              "source": "@site/docs/Validators/validator-docs/hardware-requirements.md",
+              "sourceDirName": "Validators/validator-docs",
+              "slug": "/Validators/validator-docs/hardware",
+              "permalink": "/docs/Validators/validator-docs/hardware",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Validators/validator-docs/hardware-requirements.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "hardware",
+                "title": "Hardware Requirements for Validator Node",
+                "sidebar_label": "Hardware Requirements",
+                "description": "NEAR Validator Node Hardware Requirements"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Docs",
+                "permalink": "/docs/Validators/validator-docs/README"
+              },
+              "next": {
+                "title": "Validator Economics",
+                "permalink": "/docs/Validators/validator-docs/validator-economics"
+              }
+            },
+            {
+              "unversionedId": "Validators/validator-docs/README",
+              "id": "Validators/validator-docs/README",
+              "isDocsHomePage": false,
+              "title": "Docs",
+              "description": "NEAR Validator Economics//docs.near.org/docs/validator/economics",
+              "source": "@site/docs/Validators/validator-docs/README.md",
+              "sourceDirName": "Validators/validator-docs",
+              "slug": "/Validators/validator-docs/README",
+              "permalink": "/docs/Validators/validator-docs/README",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Validators/validator-docs/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Training",
+                "permalink": "/docs/Validators/validator-training"
+              },
+              "next": {
+                "title": "Hardware Requirements",
+                "permalink": "/docs/Validators/validator-docs/hardware"
+              }
+            },
+            {
+              "unversionedId": "Validators/validator-docs/validator-economics",
+              "id": "Validators/validator-docs/validator-economics",
+              "isDocsHomePage": false,
+              "title": "Validator Economics",
+              "description": "Overview",
+              "source": "@site/docs/Validators/validator-docs/validator-economics.md",
+              "sourceDirName": "Validators/validator-docs",
+              "slug": "/Validators/validator-docs/validator-economics",
+              "permalink": "/docs/Validators/validator-docs/validator-economics",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Validators/validator-docs/validator-economics.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Hardware Requirements",
+                "permalink": "/docs/Validators/validator-docs/hardware"
+              },
+              "next": {
+                "title": "Guides",
+                "permalink": "/docs/Validators/validator-guides/README"
+              }
+            },
+            {
+              "unversionedId": "Validators/validator-education",
+              "id": "Validators/validator-education",
+              "isDocsHomePage": false,
+              "title": "Education",
+              "description": "Open Shards Alliance - https://openshards.io/",
+              "source": "@site/docs/Validators/validator-education.md",
+              "sourceDirName": "Validators",
+              "slug": "/Validators/validator-education",
+              "permalink": "/docs/Validators/validator-education",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Validators/validator-education.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Access Keys",
+                "permalink": "/docs/Technology/technical-documentation/access-keys"
+              },
+              "next": {
+                "title": "Events",
+                "permalink": "/docs/Validators/validator-events"
+              }
+            },
+            {
+              "unversionedId": "Validators/validator-events",
+              "id": "Validators/validator-events",
+              "isDocsHomePage": false,
+              "title": "Events",
+              "description": "",
+              "source": "@site/docs/Validators/validator-events.md",
+              "sourceDirName": "Validators",
+              "slug": "/Validators/validator-events",
+              "permalink": "/docs/Validators/validator-events",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Validators/validator-events.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Education",
+                "permalink": "/docs/Validators/validator-education"
+              },
+              "next": {
+                "title": "Orientation",
+                "permalink": "/docs/Validators/staking-overview"
+              }
+            },
+            {
+              "unversionedId": "Validators/validator-guides/README",
+              "id": "Validators/validator-guides/README",
+              "isDocsHomePage": false,
+              "title": "Guides",
+              "description": "Run a Validator//docs.near.org/docs/validator/staking",
+              "source": "@site/docs/Validators/validator-guides/README.md",
+              "sourceDirName": "Validators/validator-guides",
+              "slug": "/Validators/validator-guides/README",
+              "permalink": "/docs/Validators/validator-guides/README",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Validators/validator-guides/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Validator Economics",
+                "permalink": "/docs/Validators/validator-docs/validator-economics"
+              },
+              "next": {
+                "title": "Running a Validator (KR)",
+                "permalink": "/docs/Validators/validator-guides/running-a-validator-kr"
+              }
+            },
+            {
+              "unversionedId": "Validators/validator-guides/running-a-validator",
+              "id": "Validators/validator-guides/running-a-validator",
+              "isDocsHomePage": false,
+              "title": "Running a Validator",
+              "description": "Staking on NEAR",
+              "source": "@site/docs/Validators/validator-guides/running-a-validator.md",
+              "sourceDirName": "Validators/validator-guides",
+              "slug": "/Validators/validator-guides/running-a-validator",
+              "permalink": "/docs/Validators/validator-guides/running-a-validator",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Validators/validator-guides/running-a-validator.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Running a Validator (PT)",
+                "permalink": "/docs/Validators/validator-guides/running-a-validator-pt"
+              },
+              "next": {
+                "title": "Support",
+                "permalink": "/docs/Validators/validator-support/README"
+              }
+            },
+            {
+              "unversionedId": "Validators/validator-guides/running-a-validator-kr",
+              "id": "Validators/validator-guides/running-a-validator-kr",
+              "isDocsHomePage": false,
+              "title": "Running a Validator (KR)",
+              "description": "공식 배타넷에 스테이킹하기",
+              "source": "@site/docs/Validators/validator-guides/running-a-validator-kr.md",
+              "sourceDirName": "Validators/validator-guides",
+              "slug": "/Validators/validator-guides/running-a-validator-kr",
+              "permalink": "/docs/Validators/validator-guides/running-a-validator-kr",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Validators/validator-guides/running-a-validator-kr.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Guides",
+                "permalink": "/docs/Validators/validator-guides/README"
+              },
+              "next": {
+                "title": "Running a Validator (PT)",
+                "permalink": "/docs/Validators/validator-guides/running-a-validator-pt"
+              }
+            },
+            {
+              "unversionedId": "Validators/validator-guides/running-a-validator-pt",
+              "id": "Validators/validator-guides/running-a-validator-pt",
+              "isDocsHomePage": false,
+              "title": "Running a Validator (PT)",
+              "description": "Staking na NEAR",
+              "source": "@site/docs/Validators/validator-guides/running-a-validator-pt.md",
+              "sourceDirName": "Validators/validator-guides",
+              "slug": "/Validators/validator-guides/running-a-validator-pt",
+              "permalink": "/docs/Validators/validator-guides/running-a-validator-pt",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Validators/validator-guides/running-a-validator-pt.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Running a Validator (KR)",
+                "permalink": "/docs/Validators/validator-guides/running-a-validator-kr"
+              },
+              "next": {
+                "title": "Running a Validator",
+                "permalink": "/docs/Validators/validator-guides/running-a-validator"
+              }
+            },
+            {
+              "unversionedId": "Validators/validator-support/faq",
+              "id": "Validators/validator-support/faq",
+              "isDocsHomePage": false,
+              "title": "FAQ",
+              "description": "What is a validator?",
+              "source": "@site/docs/Validators/validator-support/faq.md",
+              "sourceDirName": "Validators/validator-support",
+              "slug": "/Validators/validator-support/faq",
+              "permalink": "/docs/Validators/validator-support/faq",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Validators/validator-support/faq.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Support",
+                "permalink": "/docs/Validators/validator-support/README"
+              }
+            },
+            {
+              "unversionedId": "Validators/validator-support/README",
+              "id": "Validators/validator-support/README",
+              "isDocsHomePage": false,
+              "title": "Support",
+              "description": "Discord Channel//discord.gg/z4ak4hA",
+              "source": "@site/docs/Validators/validator-support/README.md",
+              "sourceDirName": "Validators/validator-support",
+              "slug": "/Validators/validator-support/README",
+              "permalink": "/docs/Validators/validator-support/README",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Validators/validator-support/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Running a Validator",
+                "permalink": "/docs/Validators/validator-guides/running-a-validator"
+              },
+              "next": {
+                "title": "FAQ",
+                "permalink": "/docs/Validators/validator-support/faq"
+              }
+            },
+            {
+              "unversionedId": "Validators/validator-training",
+              "id": "Validators/validator-training",
+              "isDocsHomePage": false,
+              "title": "Training",
+              "description": "Open Shards Alliance - https://openshards.io/ \\(Validator Training / Incentivized TestNet\\)",
+              "source": "@site/docs/Validators/validator-training.md",
+              "sourceDirName": "Validators",
+              "slug": "/Validators/validator-training",
+              "permalink": "/docs/Validators/validator-training",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Validators/validator-training.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Orientation",
+                "permalink": "/docs/Validators/staking-overview"
+              },
+              "next": {
+                "title": "Docs",
+                "permalink": "/docs/Validators/validator-docs/README"
+              }
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Developers",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Developers/dev-docs"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Developers/dev-education"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Developers/dev-events"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Developers/dev-gaming"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Developers/dev-guides"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Developers/dev-overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Developers/dev-support"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Developers/dev-training"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Developers/gaming"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "End Users",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "End Users/user-community"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "End Users/user-dapps"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "End Users/user-earn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "End Users/user-education"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "End Users/user-events"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "End Users/user-overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "End Users/user-support"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Forum",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Forum/near-forum-guidelines"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Forum/what-is-the-near-governance-forum"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Founders",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Founders/founder-education"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Founders/founder-events"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Founders/founder-overview"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Getting Started",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Getting Started/grants-and-funding"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Getting Started/resources"
+                  },
+                  {
+                    "type": "category",
+                    "label": "ecosystem-success",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Getting Started/ecosystem-success/README"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Getting Started/ecosystem-success/business-development"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Getting Started/ecosystem-success/ecosystem-intelligence"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Getting Started/ecosystem-success/ecosystem-success"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Getting Started/ecosystem-success/resources-available"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "near-token",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Getting Started/near-token/README"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Getting Started/near-token/lockups"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Getting Started/near-token/token-balance"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Getting Started/near-token/token-custody",
+                        "label": "Token Custody"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Getting Started/near-token/delegation",
+                        "label": "Token Delegation"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Getting Started/near-token/whats-an-nft"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Governance",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Governance/astrodao"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Governance/near-forum-guidelines"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Governance/what-is-the-near-governance-forum"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Governance/your-guide-to-daos-on-near"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Guilds",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Guilds/guild-community"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Guilds/guild-getstarted"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Guilds/guild-overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Guilds/guild-reporting"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Guilds/guild-support"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Investors",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Investors/investor-overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Investors/investor-resources"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Investors/investor-support"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "News",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "News/whats-new"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "News/why-near"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Resources",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Resources/analytics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Resources/contributing"
+                  },
+                  {
+                    "type": "category",
+                    "label": "faq",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Resources/faq/README"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Resources/faq/integrator-faq"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Resources/faq/onboarding-with-linkdrop"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "legal-resources",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Resources/legal-resources/README"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Resources/legal-resources/legal-checklist"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Technology",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Technology/overview-of-near-protocol"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Technology/research"
+                  },
+                  {
+                    "type": "category",
+                    "label": "technical-documentation",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Technology/technical-documentation/README"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Technology/technical-documentation/access-keys"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Validators",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Validators/validator-education"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Validators/validator-events"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Validators/staking-overview",
+                    "label": "Orientation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Validators/validator-training"
+                  },
+                  {
+                    "type": "category",
+                    "label": "validator-docs",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Validators/validator-docs/README"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Validators/validator-docs/hardware",
+                        "label": "Hardware Requirements"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Validators/validator-docs/validator-economics"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "validator-guides",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Validators/validator-guides/README"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Validators/validator-guides/running-a-validator-kr"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Validators/validator-guides/running-a-validator-pt"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Validators/validator-guides/running-a-validator"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "validator-support",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Validators/validator-support/README"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Validators/validator-support/faq"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": null
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/astrodao",
+        "source": "@site/src/pages/astrodao.md"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Guilds/guild-overview",
+  "id": "Guilds/guild-overview",
+  "isDocsHomePage": false,
+  "title": "Overview",
+  "description": "Guilds are the heart beat of the NEARVerse.",
+  "source": "@site/docs/Guilds/guild-overview.md",
+  "sourceDirName": "Guilds",
+  "slug": "/Guilds/guild-overview",
+  "permalink": "/wiki/docs/Guilds/guild-overview",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Guilds/guild-overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Guilds are the heart beat of the NEARVerse."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Started",
+    "permalink": "/wiki/docs/Guilds/guild-getstarted"
+  },
+  "next": {
+    "title": "Reporting",
+    "permalink": "/wiki/docs/Guilds/guild-reporting"
+  }
+}

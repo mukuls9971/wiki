@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Investors/investor-overview",
+  "id": "Investors/investor-overview",
+  "isDocsHomePage": false,
+  "title": "Overview",
+  "description": "",
+  "source": "@site/docs/Investors/investor-overview.md",
+  "sourceDirName": "Investors",
+  "slug": "/Investors/investor-overview",
+  "permalink": "/wiki/docs/Investors/investor-overview",
+  "editUrl": "https://github.com/near/wiki/edit/main/wiki/docs/Investors/investor-overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Support",
+    "permalink": "/wiki/docs/Guilds/guild-support"
+  },
+  "next": {
+    "title": "Resources",
+    "permalink": "/wiki/docs/Investors/investor-resources"
+  }
+}
